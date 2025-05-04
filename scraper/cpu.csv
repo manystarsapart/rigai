@@ -1,0 +1,1413 @@
+title,core_count,performance_core_clock,performance_core_boost_clock,microarchitecture,tdp,integrated_graphics,rating,price
+AMD Ryzen 7 9800X3D,8,4.7 GHz,5.2 GHz,Zen 5,120 W,Radeon,4.5,$499.00
+AMD Ryzen 7 7800X3D,8,4.2 GHz,5 GHz,Zen 4,120 W,Radeon,4.5,$391.12
+AMD Ryzen 5 7600X,6,4.7 GHz,5.3 GHz,Zen 4,105 W,Radeon,4.5,$206.30
+AMD Ryzen 5 5600X,6,3.7 GHz,4.6 GHz,Zen 3,65 W,None,4.5,$149.00
+AMD Ryzen 7 9700X,8,3.8 GHz,5.5 GHz,Zen 5,65 W,Radeon,4.5,$303.58
+AMD Ryzen 5 9600X,6,3.9 GHz,5.4 GHz,Zen 5,65 W,Radeon,4.5,$208.00
+AMD Ryzen 9 9950X3D,16,4.3 GHz,5.7 GHz,Zen 5,170 W,Radeon,4.5,$899.99
+AMD Ryzen 7 7700X,8,4.5 GHz,5.4 GHz,Zen 4,105 W,Radeon,4.5,$268.60
+AMD Ryzen 5 5500,6,3.6 GHz,4.2 GHz,Zen 3,65 W,None,4.5,$73.00
+AMD Ryzen 5 7600,6,3.8 GHz,5.1 GHz,Zen 4,65 W,Radeon,4.5,$198.85
+AMD Ryzen 5 5600,6,3.5 GHz,4.4 GHz,Zen 3,65 W,None,4.5,$126.50
+AMD Ryzen 7 5800X,8,3.8 GHz,4.7 GHz,Zen 3,105 W,None,4.5,$158.22
+Intel Core i5-12400F,6,2.5 GHz,4.4 GHz,Alder Lake,65 W,None,4.5,$100.00
+Intel Core i9-14900K,24,3.2 GHz,6 GHz,Raptor Lake Refresh,125 W,Intel UHD Graphics 770,4.5,$388.00
+Intel Core i7-14700K,20,3.4 GHz,5.6 GHz,Raptor Lake Refresh,125 W,Intel UHD Graphics 770,4.5,$320.99
+AMD Ryzen 5 3600,6,3.6 GHz,4.2 GHz,Zen 2,65 W,None,4.5,$84.00
+AMD Ryzen 7 5700X,8,3.4 GHz,4.6 GHz,Zen 3,65 W,None,4.5,$128.00
+AMD Ryzen 9 7900X,12,4.7 GHz,5.6 GHz,Zen 4,170 W,Radeon,4.5,$335.27
+AMD Ryzen 9 9900X,12,4.4 GHz,5.6 GHz,Zen 5,120 W,Radeon,4.5,$360.00
+AMD Ryzen 7 7700,8,3.6 GHz,5.3 GHz,Zen 4,65 W,Radeon,4.5,$279.97
+AMD Ryzen 7 5700X3D,8,3 GHz,4.1 GHz,Zen 3,105 W,None,4.5,$269.95
+AMD Ryzen 5 7500F,6,3.7 GHz,5 GHz,Zen 4,65 W,None,4.5,None
+Intel Core i7-12700K,12,3.6 GHz,5 GHz,Alder Lake,125 W,Intel UHD Graphics 770,4.5,$219.99
+Intel Core i5-14400F,10,2.5 GHz,4.7 GHz,Raptor Lake Refresh,65 W,None,None,$117.00
+AMD Ryzen 9 9950X,16,4.3 GHz,5.7 GHz,Zen 5,170 W,Radeon,4.5,$521.60
+Intel Core i7-12700KF,12,3.6 GHz,5 GHz,Alder Lake,125 W,None,4.5,$154.00
+AMD Ryzen 5 8500G,6,4.1 GHz,5 GHz,Zen 4,65 W,Radeon 740M,5.0,$142.99
+Intel Core i5-14600K,14,3.5 GHz,5.3 GHz,Raptor Lake Refresh,125 W,Intel UHD Graphics 770,4.5,$194.99
+AMD Ryzen 9 5900X,12,3.7 GHz,4.8 GHz,Zen 3,105 W,None,4.5,$239.99
+Intel Core Ultra 9 285K,24,3.7 GHz,5.7 GHz,Arrow Lake,125 W,Intel Xe,4.5,$579.00
+AMD Ryzen 5 4500,6,3.6 GHz,4.1 GHz,Zen 2,65 W,None,4.5,$64.98
+Intel Core i5-12600KF,10,3.7 GHz,4.9 GHz,Alder Lake,125 W,None,4.5,$154.00
+AMD Ryzen 7 3700X,8,3.6 GHz,4.4 GHz,Zen 2,65 W,None,4.5,$133.90
+Intel Core Ultra 7 265K,20,3.9 GHz,5.5 GHz,Arrow Lake,125 W,Intel Xe,4.5,$324.00
+AMD Threadripper 3990X,64,2.9 GHz,4.3 GHz,Zen 2,280 W,None,5.0,$4120.79
+AMD Ryzen 5 7500F,6,3.7 GHz,5 GHz,Zen 4,65 W,None,4.5,None
+AMD Ryzen 5 5600G,6,3.9 GHz,4.4 GHz,Zen 3,65 W,Radeon Vega 7,4.5,$169.99
+Intel Core i7-14700KF,20,3.4 GHz,5.6 GHz,Raptor Lake Refresh,125 W,None,4.5,$285.00
+Intel Core i5-13400F,10,2.5 GHz,4.6 GHz,Raptor Lake,65 W,None,4.5,$133.19
+AMD Ryzen 7 5700,8,3.7 GHz,4.6 GHz,Zen 3,65 W,None,5.0,$126.80
+AMD Ryzen 5 8400F,6,4.2 GHz,4.7 GHz,Zen 4,65 W,None,None,$148.95
+Intel Core i5-14600KF,14,3.5 GHz,5.3 GHz,Raptor Lake Refresh,125 W,None,5.0,$185.00
+AMD Ryzen 7 5800XT,8,3.8 GHz,4.8 GHz,Zen 3,105 W,None,4.5,$124.99
+AMD Ryzen 9 7950X,16,4.5 GHz,5.7 GHz,Zen 4,170 W,Radeon,4.5,$449.99
+Intel Core i3-12100F,4,3.3 GHz,4.3 GHz,Alder Lake,58 W,None,4.5,$68.00
+AMD Ryzen 7 5800X3D,8,3.4 GHz,4.5 GHz,Zen 3,105 W,None,4.5,$784.05
+Intel Core i5-12600K,10,3.7 GHz,4.9 GHz,Alder Lake,125 W,Intel UHD Graphics 770,4.5,$180.94
+AMD Ryzen 7 5700G,8,3.8 GHz,4.6 GHz,Zen 3,65 W,Radeon Vega 8,4.5,$139.99
+AMD Ryzen 9 9900X3D,12,4.4 GHz,5.5 GHz,Zen 5,120 W,Radeon,None,$689.34
+AMD Ryzen 5 8600G,6,4.3 GHz,5 GHz,Zen 4,65 W,Radeon 760M,4.5,$181.26
+Intel Core i9-12900K,16,3.2 GHz,5.2 GHz,Alder Lake,125 W,Intel UHD Graphics 770,4.5,$309.00
+AMD Ryzen 9 5950X,16,3.4 GHz,4.9 GHz,Zen 3,105 W,None,4.5,$323.00
+AMD Ryzen 9 7950X3D,16,4.2 GHz,5.7 GHz,Zen 4,120 W,Radeon,4.5,$699.99
+Intel Core i9-14900KF,24,3.2 GHz,6 GHz,Raptor Lake Refresh,125 W,None,4.5,$439.99
+Intel Core i7-13700K,16,3.4 GHz,5.4 GHz,Raptor Lake,125 W,Intel UHD Graphics 770,4.5,$288.00
+Intel Core i5-13600KF,14,3.5 GHz,5.1 GHz,Raptor Lake,125 W,None,4.5,$189.99
+AMD Ryzen 7 8700G,8,4.2 GHz,5.1 GHz,Zen 4,65 W,Radeon 780M,5.0,$303.00
+AMD Ryzen 5 5600GT,6,3.6 GHz,4.6 GHz,Zen 3,65 W,Radeon Vega 7,4.5,$149.99
+Intel Core i9-14900KS,24,3.2 GHz,6.2 GHz,Raptor Lake Refresh,150 W,Intel UHD Graphics 770,None,$669.97
+Intel Core i9-13900K,24,3 GHz,5.8 GHz,Raptor Lake,125 W,Intel UHD Graphics 770,4.5,$396.98
+AMD Ryzen 5 2600,6,3.4 GHz,3.9 GHz,Zen+,65 W,None,4.5,$203.47
+AMD Ryzen 7 8700F,8,4.1 GHz,5 GHz,Zen 4,65 W,None,5.0,$259.95
+Intel Core i7-14700F,20,2.1 GHz,5.4 GHz,Raptor Lake Refresh,65 W,None,5.0,$305.51
+Intel Core i7-9700K,8,3.6 GHz,4.9 GHz,Coffee Lake Refresh,95 W,Intel UHD Graphics 630,4.5,$233.22
+AMD Ryzen 5 7600X3D,6,4.1 GHz,4.7 GHz,Zen 4,65 W,Radeon,5.0,None
+AMD Ryzen 9 7900,12,3.6 GHz,5.4 GHz,Zen 4,65 W,Radeon,4.5,$361.71
+AMD Ryzen 3 3200G,4,3.6 GHz,4 GHz,Zen+,65 W,Radeon Vega 8,4.5,$75.00
+Intel Core i5-10400F,6,2.9 GHz,4.3 GHz,Comet Lake,65 W,None,4.5,$115.99
+Intel Core i5-13600K,14,3.5 GHz,5.1 GHz,Raptor Lake,125 W,Intel UHD Graphics 770,4.5,$230.00
+Intel Core i7-8700K,6,3.7 GHz,4.7 GHz,Coffee Lake,95 W,Intel UHD Graphics 630,4.5,$170.00
+Intel Core i9-12900KF,16,3.2 GHz,5.2 GHz,Alder Lake,125 W,None,4.5,$269.94
+Intel Core i5-12400,6,2.5 GHz,4.4 GHz,Alder Lake,65 W,Intel UHD Graphics 730,4.5,$143.55
+AMD Ryzen 5 3600X,6,3.8 GHz,4.4 GHz,Zen 2,95 W,None,4.5,$176.99
+Intel Pentium E2220,2,2.4 GHz,None,Core,65 W,None,None,$12.99
+Intel Core i9-9900K,8,3.6 GHz,5 GHz,Coffee Lake Refresh,95 W,Intel UHD Graphics 630,4.5,$360.00
+AMD Ryzen 7 2700X,8,3.7 GHz,4.3 GHz,Zen+,105 W,None,4.5,$185.00
+AMD Ryzen 5 3400G,4,3.7 GHz,4.2 GHz,Zen+,65 W,Radeon Vega 11,4.5,$102.00
+AMD Ryzen 9 3900X,12,3.8 GHz,4.6 GHz,Zen 2,105 W,None,4.5,$345.00
+Intel Core Ultra 5 245K,14,4.2 GHz,5.2 GHz,Arrow Lake,125 W,Intel Xe,None,$269.99
+Intel Core i3-14100F,4,3.5 GHz,4.7 GHz,Raptor Lake Refresh,58 W,None,None,$90.07
+Intel Core i7-7700K,4,4.2 GHz,4.5 GHz,Kaby Lake,91 W,Intel HD Graphics 630,4.5,$151.69
+Intel Core i7-10700K,8,3.8 GHz,5.1 GHz,Comet Lake,125 W,Intel UHD Graphics 630,4.5,$304.99
+Intel Core i7-13700KF,16,3.4 GHz,5.4 GHz,Raptor Lake,125 W,None,4.5,$299.00
+Intel Core i7-6700K,4,4 GHz,4.2 GHz,Skylake,91 W,Intel HD Graphics 530,4.5,$137.66
+Intel Core i5-13400,10,2.5 GHz,4.6 GHz,Raptor Lake,65 W,Intel UHD Graphics 730,4.5,$160.97
+AMD Ryzen 7 3800X,8,3.9 GHz,4.5 GHz,Zen 2,105 W,None,4.5,$265.00
+AMD Ryzen 9 7900X3D,12,4.4 GHz,5.6 GHz,Zen 4,120 W,Radeon,4.5,None
+Intel Core Ultra 7 265KF,20,3.9 GHz,5.5 GHz,Arrow Lake,125 W,None,None,$318.56
+AMD Ryzen 3 4100,4,3.8 GHz,4 GHz,Zen 2,65 W,None,3.5,$68.00
+Intel Core i5-14400,10,2.5 GHz,4.7 GHz,Raptor Lake Refresh,65 W,Intel UHD Graphics 730,5.0,$176.99
+Intel Core i5-9400F,6,2.9 GHz,4.1 GHz,Coffee Lake Refresh,65 W,None,4.0,$105.00
+Intel Core i3-13100F,4,3.4 GHz,4.5 GHz,Raptor Lake,58 W,None,4.5,$85.19
+AMD Ryzen 9 5900XT,16,3.3 GHz,4.8 GHz,Zen 3,105 W,None,5.0,$283.33
+Intel Core i9-13900KF,24,3 GHz,5.8 GHz,Raptor Lake,125 W,None,4.5,$369.00
+Intel Core i3-12100,4,3.3 GHz,4.3 GHz,Alder Lake,60 W,Intel UHD Graphics 730,4.5,$113.58
+AMD Threadripper 3970X,32,3.7 GHz,4.5 GHz,Zen 2,280 W,None,5.0,$1800.00
+Intel Core i5-11400F,6,2.6 GHz,4.4 GHz,Rocket Lake,65 W,None,4.5,$204.27
+Intel Core i5-9600K,6,3.7 GHz,4.6 GHz,Coffee Lake Refresh,95 W,Intel UHD Graphics 630,4.5,$130.00
+AMD Ryzen 5 2600X,6,3.6 GHz,4.2 GHz,Zen+,95 W,None,4.5,None
+Intel Core i7-11700K,8,3.6 GHz,5 GHz,Rocket Lake,125 W,Intel UHD Graphics 750,4.5,$298.99
+Intel Core i3-14100,4,3.5 GHz,4.7 GHz,Raptor Lake Refresh,60 W,Intel UHD Graphics 730,None,$119.97
+AMD Ryzen 5 5600XT,6,3.7 GHz,4.7 GHz,Zen 3,65 W,None,None,$129.99
+Intel Core i7-8700,6,3.2 GHz,4.6 GHz,Coffee Lake,65 W,Intel UHD Graphics 630,4.5,$149.95
+Intel Core i7-13700F,16,2.1 GHz,5.2 GHz,Raptor Lake,65 W,None,4.5,$255.00
+Intel Core i7-12700F,12,2.1 GHz,4.9 GHz,Alder Lake,65 W,None,4.5,$235.95
+AMD Ryzen 5 4600G,6,3.7 GHz,4.2 GHz,Zen 2,65 W,Radeon Vega 7,4.5,None
+Intel Core i5-10400,6,2.9 GHz,4.3 GHz,Comet Lake,65 W,Intel UHD Graphics 630,4.5,$128.99
+AMD Ryzen 5 5500GT,6,3.6 GHz,4.4 GHz,Zen 3,65 W,Radeon Vega 7,4.5,$163.00
+Intel Core i9-10900K,10,3.7 GHz,5.3 GHz,Comet Lake,125 W,Intel UHD Graphics 630,4.5,$549.99
+Intel Core i7-7700,4,3.6 GHz,4.2 GHz,Kaby Lake,65 W,Intel HD Graphics 630,4.5,$245.28
+Intel Core i5-8400,6,2.8 GHz,4 GHz,Coffee Lake,65 W,Intel UHD Graphics 630,4.5,$71.26
+Intel Core i5-6500,4,3.2 GHz,3.6 GHz,Skylake,65 W,Intel HD Graphics 530,4.5,$87.13
+Intel Core Ultra 5 235,14,3.4 GHz,5 GHz,Arrow Lake,65 W,Intel Xe,None,$230.00
+Intel Core i3-10100F,4,3.6 GHz,4.3 GHz,Comet Lake,65 W,None,4.5,$94.84
+AMD Ryzen 5 3500X,6,3.6 GHz,4.1 GHz,Zen 2,65 W,None,4.5,None
+Intel Core i7-4790K,4,4 GHz,4.4 GHz,Haswell Refresh,88 W,Intel HD Graphics 4600,4.5,None
+Intel Core i7-10700F,8,2.9 GHz,4.8 GHz,Comet Lake,65 W,None,4.5,$249.00
+AMD Ryzen 5 9600,6,3.8 GHz,5.2 GHz,Zen 5,65 W,Radeon,None,$259.94
+AMD Ryzen 9 3950X,16,3.5 GHz,4.7 GHz,Zen 2,105 W,None,4.5,$665.00
+Intel Core i9-11900K,8,3.5 GHz,5.3 GHz,Rocket Lake,125 W,Intel UHD Graphics 750,4.0,$449.00
+AMD Ryzen 7 7800X3D,8,4.2 GHz,5 GHz,Zen 4,120 W,Radeon,None,$492.79
+AMD Ryzen 3 3100,4,3.6 GHz,3.9 GHz,Zen 2,65 W,None,4.5,$87.44
+Intel Core i7-6700,4,3.4 GHz,4 GHz,Skylake,65 W,Intel HD Graphics 530,4.5,$123.00
+Intel Core Ultra 5 225F,10,3.3 GHz,4.9 GHz,Arrow Lake,65 W,None,None,$207.00
+Intel Core i5-13500,14,2.5 GHz,4.8 GHz,Raptor Lake,65 W,Intel UHD Graphics 770,4.5,$243.47
+Intel Core i5-10600K,6,4.1 GHz,4.8 GHz,Comet Lake,125 W,Intel UHD Graphics 630,4.5,$210.01
+Intel Core i9-10850K,10,3.6 GHz,5.2 GHz,Comet Lake,125 W,Intel UHD Graphics 630,4.5,$449.99
+Intel Core i5-14500,14,2.6 GHz,5 GHz,Raptor Lake Refresh,65 W,Intel UHD Graphics 770,5.0,$246.97
+Intel Core i7-14700,20,2.1 GHz,5.4 GHz,Raptor Lake Refresh,65 W,Intel UHD Graphics 770,5.0,$329.97
+Intel Core i7-12700,12,2.1 GHz,4.9 GHz,Alder Lake,65 W,Intel UHD Graphics 770,4.0,$261.13
+AMD Ryzen 5 1600 (12nm),6,3.2 GHz,3.6 GHz,Zen+,65 W,None,4.5,$149.00
+Intel Core i5-4690K,4,3.5 GHz,3.9 GHz,Haswell Refresh,88 W,Intel HD Graphics 4600,4.5,$54.00
+Intel Core Ultra 5 245KF,14,4.2 GHz,5.2 GHz,Arrow Lake,125 W,None,None,$284.99
+Intel Core i7-11700F,8,2.5 GHz,4.9 GHz,Rocket Lake,65 W,None,4.5,$229.99
+AMD Threadripper 3960X,24,3.8 GHz,4.5 GHz,Zen 2,280 W,None,4.5,$1150.00
+Intel Core i7-3770,4,3.4 GHz,None,Ivy Bridge,77 W,Intel HD Graphics 4000,4.5,$64.78
+Intel Xeon E5-2699 V4,22,2.2 GHz,3.6 GHz,Broadwell,145 W,None,5.0,$247.00
+AMD Ryzen 5 1600 (14nm),6,3.2 GHz,3.6 GHz,Zen,65 W,None,4.5,$148.00
+Intel Core i5-7500T,4,2.7 GHz,3.3 GHz,Kaby Lake,35 W,Intel HD Graphics 630,None,$40.00
+Intel Core i5-6600K,4,3.5 GHz,3.9 GHz,Skylake,91 W,Intel HD Graphics 530,4.5,$80.98
+Intel Core i7-4770K,4,3.5 GHz,3.9 GHz,Haswell,84 W,Intel HD Graphics 4600,4.5,$139.00
+AMD Ryzen 5 3600,6,3.6 GHz,4.2 GHz,Zen 2,65 W,None,5.0,None
+Intel Core Ultra 9 285,24,2.5 GHz,5.6 GHz,Arrow Lake,65 W,Intel Xe,None,$519.00
+Intel Core i7-9700,8,3 GHz,4.7 GHz,Coffee Lake Refresh,65 W,Intel HD Graphics 630,5.0,$210.54
+Intel Core i5-8600K,6,3.6 GHz,4.3 GHz,Coffee Lake,95 W,Intel UHD Graphics 630,4.5,$121.47
+AMD Ryzen 7 2700,8,3.2 GHz,4.1 GHz,Zen+,65 W,None,4.5,$170.00
+AMD Ryzen 5 3500,6,3.6 GHz,4.1 GHz,Zen 2,65 W,None,5.0,None
+Intel Core i5-11400,6,2.6 GHz,4.4 GHz,Rocket Lake,65 W,Intel UHD Graphics 730,4.5,$191.48
+Intel Core i7-10700,8,2.9 GHz,4.8 GHz,Comet Lake,65 W,Intel UHD Graphics 630,4.5,$646.28
+Intel Core i5-12500,6,3 GHz,4.6 GHz,Alder Lake,65 W,Intel UHD Graphics 770,4.5,$179.97
+Intel Core Ultra 5 225,10,3.3 GHz,4.9 GHz,Arrow Lake,65 W,Intel Xe,None,$220.00
+Intel Core i9-9900KF,8,3.6 GHz,5 GHz,Coffee Lake Refresh,95 W,None,4.5,$285.00
+Intel Core i5-3470,4,3.2 GHz,None,Ivy Bridge,77 W,Intel HD Graphics 2500,4.5,$32.39
+Intel Core i9-13900KS,24,3 GHz,6 GHz,Raptor Lake,150 W,Intel UHD Graphics 770,4.5,$429.00
+Intel Core i9-12900KS,16,3.4 GHz,5.5 GHz,Alder Lake,150 W,Intel UHD Graphics 770,4.5,$399.99
+Intel Core i3-9100F,4,3.6 GHz,4.2 GHz,Coffee Lake Refresh,65 W,None,4.5,$129.00
+Intel Core i5-7400,4,3 GHz,3.5 GHz,Kaby Lake,65 W,Intel HD Graphics 630,4.0,$69.70
+AMD EPYC 4564P,16,4.5 GHz,5.7 GHz,Zen 4,170 W,Radeon,None,$699.99
+Intel Core i7-4790,4,3.6 GHz,4 GHz,Haswell Refresh,84 W,Intel HD Graphics 4600,5.0,$139.94
+Intel Core i5-7500,4,3.4 GHz,3.8 GHz,Kaby Lake,65 W,Intel HD Graphics 630,4.5,$53.45
+Intel Core i3-4150,2,3.5 GHz,None,Haswell Refresh,54 W,Intel HD Graphics 4400,4.5,$35.00
+Intel Core i9-7980XE,18,2.6 GHz,4.4 GHz,Skylake,165 W,None,4.0,None
+AMD Ryzen 7 1700,8,3 GHz,3.7 GHz,Zen,65 W,None,4.5,$173.56
+Intel Core Ultra 7 265,20,2.4 GHz,5.3 GHz,Arrow Lake,65 W,Intel Xe,None,$374.99
+AMD Ryzen 3 2200G,4,3.5 GHz,3.7 GHz,Zen,65 W,Radeon Vega 8,4.5,None
+Intel Xeon E5-2680 V4,14,2.4 GHz,3.3 GHz,Broadwell,120 W,None,4.0,$1975.00
+Intel Core i5-10600KF,6,4.1 GHz,4.8 GHz,Comet Lake,125 W,None,5.0,None
+Intel Core i5-11600K,6,3.9 GHz,4.9 GHz,Rocket Lake,125 W,Intel UHD Graphics 750,4.5,$239.00
+Intel Core i7-10700KF,8,3.8 GHz,5.1 GHz,Comet Lake,125 W,None,4.5,$304.02
+AMD Ryzen 5 2400G,4,3.6 GHz,3.9 GHz,Zen,65 W,Radeon Vega 11,4.5,$209.79
+Intel Core i7-9700F,8,3 GHz,4.7 GHz,Coffee Lake Refresh,65 W,None,5.0,$259.00
+Intel Core i3-13100,4,3.4 GHz,4.5 GHz,Raptor Lake,60 W,Intel UHD Graphics 730,5.0,$120.00
+AMD 2650,2,1.45 GHz,None,Jaguar,25 W,Radeon HD 8240,4.5,$122.52
+AMD Ryzen 7 3700X,8,3.6 GHz,4.4 GHz,Zen 2,65 W,None,5.0,None
+Intel Core i3-10100,4,3.6 GHz,4.3 GHz,Comet Lake,65 W,Intel UHD Graphics 630,4.5,$100.75
+AMD Ryzen 7 1700X,8,3.4 GHz,3.8 GHz,Zen,95 W,None,4.5,$428.88
+AMD Athlon 3000G (14nm),2,3.5 GHz,None,Zen,35 W,Radeon Vega 3,4.5,$98.79
+Intel Core i7-13700,16,2.1 GHz,5.2 GHz,Raptor Lake,65 W,Intel UHD Graphics 770,4.5,$319.93
+AMD Ryzen 5 1600X,6,3.6 GHz,4 GHz,Zen,95 W,None,4.5,$199.59
+AMD Ryzen 5 3600XT,6,3.8 GHz,4.5 GHz,Zen 2,95 W,None,4.5,$609.90
+Intel Core i3-8100,4,3.6 GHz,None,Coffee Lake,65 W,Intel UHD Graphics 630,4.0,$99.00
+Intel Core i5-8500,6,3 GHz,4.1 GHz,Coffee Lake,65 W,Intel UHD Graphics 630,4.5,$139.00
+Intel Core i5-4590,4,3.3 GHz,3.7 GHz,Haswell Refresh,84 W,Intel HD Graphics 4600,4.5,None
+AMD Ryzen 9 3900XT,12,3.8 GHz,4.7 GHz,Zen 2,105 W,None,4.5,None
+AMD A4-6300,2,3.7 GHz,3.9 GHz,Piledriver,65 W,Radeon HD 8370D,4.0,$46.79
+Intel Core i3-10105F,4,3.7 GHz,4.4 GHz,Comet Lake,65 W,None,4.5,$69.98
+Intel Core i5-7600K,4,3.8 GHz,4.2 GHz,Kaby Lake,91 W,Intel HD Graphics 630,4.5,$113.37
+AMD FX-8350,8,4 GHz,None,Piledriver,125 W,None,4.5,None
+Intel Core i9-11900KF,8,3.5 GHz,5.3 GHz,Rocket Lake,125 W,None,4.0,$345.00
+Intel Core i5-9400,6,2.9 GHz,4.1 GHz,Coffee Lake Refresh,65 W,Intel UHD Graphics 630,4.5,$149.00
+Intel Core i7-6800K,6,3.4 GHz,3.6 GHz,Broadwell,140 W,None,4.5,$72.98
+Intel Core i7-4770,4,3.4 GHz,3.9 GHz,Haswell,84 W,Intel HD Graphics 4600,4.5,$177.00
+Intel Core i7-3770K,4,3.5 GHz,None,Ivy Bridge,77 W,Intel HD Graphics 4000,4.5,$97.17
+AMD Ryzen 3 1200 (14nm),4,3.1 GHz,3.4 GHz,Zen,65 W,None,4.5,$89.80
+Intel Core i7-6950X,10,3 GHz,3.5 GHz,Broadwell,140 W,None,None,None
+AMD Ryzen 5 5600X3D,6,3.3 GHz,4.4 GHz,Zen 3,105 W,None,4.5,None
+AMD Threadripper 2920X,12,3.5 GHz,4.3 GHz,Zen+,180 W,None,5.0,None
+Intel Core i7-11700KF,8,3.6 GHz,5 GHz,Rocket Lake,125 W,None,4.5,$294.57
+AMD Ryzen 5 5600T,6,3.5 GHz,4.5 GHz,Zen 3,65 W,None,None,$153.94
+Intel Core i7-9700KF,8,3.6 GHz,4.9 GHz,Coffee Lake Refresh,95 W,None,5.0,$225.00
+Intel Core i9-14900F,24,2 GHz,5.8 GHz,Raptor Lake Refresh,65 W,None,None,$559.97
+Intel Core Ultra 7 265F,20,2.4 GHz,5.3 GHz,Arrow Lake,65 W,None,None,$369.99
+Intel Core i5-2400,4,3.1 GHz,None,Sandy Bridge,95 W,Intel HD Graphics 2000,4.5,$32.39
+AMD Athlon 200GE,2,3.2 GHz,None,Zen,35 W,Radeon Vega 3,4.5,$69.98
+Intel Core i5-4460,4,3.2 GHz,3.4 GHz,Haswell Refresh,84 W,Intel HD Graphics 4600,4.5,$68.56
+Intel Xeon E5-2687W V4,12,3 GHz,3.5 GHz,Broadwell,160 W,None,None,$2282.01
+AMD Ryzen 5 1400,4,3.2 GHz,3.4 GHz,Zen,65 W,None,4.5,None
+Intel Core i3-7100,2,3.9 GHz,None,Kaby Lake,51 W,Intel HD Graphics 630,4.0,$50.23
+Intel Core i5-4690,4,3.5 GHz,3.9 GHz,Haswell Refresh,84 W,Intel HD Graphics 4600,4.5,$52.00
+Intel Core i7-11700,8,2.5 GHz,4.9 GHz,Rocket Lake,65 W,Intel UHD Graphics 750,4.5,$391.25
+Intel Core i5-9600KF,6,3.7 GHz,4.6 GHz,Coffee Lake Refresh,95 W,None,4.5,$225.86
+AMD Ryzen 3 3300X,4,3.8 GHz,4.3 GHz,Zen 2,65 W,None,4.5,$148.99
+AMD A6-6400K,2,3.9 GHz,None,Piledriver,65 W,Radeon HD 8470D,4.5,None
+Intel Core i9-14900,24,2 GHz,5.8 GHz,Raptor Lake Refresh,65 W,Intel UHD Graphics 770,None,$560.00
+Intel Core i9-7920X,12,2.9 GHz,4.4 GHz,Skylake,140 W,None,None,$314.81
+AMD Ryzen 7 3800XT,8,3.9 GHz,4.7 GHz,Zen 2,105 W,None,4.5,$399.99
+Intel Core i7-8700K,6,3.7 GHz,4.7 GHz,Coffee Lake,95 W,Intel UHD Graphics 630,5.0,$255.04
+Intel Core i9-9900KS,8,4 GHz,5 GHz,Coffee Lake Refresh,127 W,Intel UHD Graphics 630,4.5,$1389.00
+Intel Core i5-4570,4,3.2 GHz,None,Haswell,84 W,Intel HD Graphics 4600,4.5,$98.00
+Intel Core i3-10305,4,3.8 GHz,4.5 GHz,Comet Lake,65 W,Intel UHD Graphics 630,None,$69.99
+AMD Ryzen 7 1800X,8,3.6 GHz,4 GHz,Zen,95 W,None,4.5,$404.34
+Intel Core i5-6400,4,2.7 GHz,3.3 GHz,Skylake,65 W,Intel HD Graphics 530,4.5,None
+Intel Celeron G6900,2,3.4 GHz,None,Alder Lake,46 W,Intel UHD Graphics 710,4.0,$91.96
+Intel Core i7-2600,4,3.4 GHz,None,Sandy Bridge,95 W,Intel HD Graphics 2000,4.5,None
+AMD FX-6300,6,3.5 GHz,None,Piledriver,95 W,None,4.5,None
+Intel Core i3-9100,4,3.6 GHz,4.2 GHz,Coffee Lake Refresh,65 W,Intel UHD Graphics 630,4.5,$59.99
+Intel Core i5-10500,6,3.1 GHz,4.5 GHz,Comet Lake,65 W,Intel UHD Graphics 630,None,$229.95
+AMD Athlon II X2 240,2,2.8 GHz,None,K10,65 W,None,None,$29.48
+Intel Core i7-4790K,4,4 GHz,4.4 GHz,Haswell Refresh,88 W,Intel HD Graphics 4600,4.0,$121.47
+Intel Core i5-7600,4,3.5 GHz,4.1 GHz,Kaby Lake,65 W,Intel HD Graphics 630,4.5,$67.06
+Intel Core i9-10980XE,18,3 GHz,4.8 GHz,Cascade Lake,165 W,None,None,None
+Intel Core i9-10920X,12,3.5 GHz,4.8 GHz,Cascade Lake,165 W,None,5.0,$500.33
+Intel Core i5-11600KF,6,3.9 GHz,4.9 GHz,Rocket Lake,125 W,None,4.5,$552.27
+AMD Ryzen 5 1500X,4,3.5 GHz,3.7 GHz,Zen,65 W,None,4.5,$248.90
+Intel Pentium Gold G7400,2,3.7 GHz,None,Alder Lake,46 W,Intel UHD Graphics 710,None,$98.00
+Intel Core i9-10900KF,10,3.7 GHz,5.3 GHz,Comet Lake,125 W,None,4.5,None
+Intel Core i3-6100,2,3.7 GHz,None,Skylake,51 W,Intel HD Graphics 530,4.5,$71.73
+Intel Core i3-4130,2,3.4 GHz,None,Haswell,54 W,Intel HD Graphics 4400,4.5,$41.00
+Intel Pentium E5700,2,3 GHz,None,Wolfdale,65 W,None,None,$14.99
+Intel Core 2 Duo E8400,2,3 GHz,None,Wolfdale,65 W,None,4.5,$27.55
+Intel Xeon E3-1220 V6,4,3 GHz,3.5 GHz,Kaby Lake,72 W,None,None,$25.00
+AMD Threadripper 2990WX,32,3 GHz,4.2 GHz,Zen+,250 W,None,4.5,None
+Intel Core i5-6600,4,3.3 GHz,3.9 GHz,Skylake,65 W,Intel HD Graphics 530,4.5,None
+Intel Core i9-13900,24,2 GHz,5.6 GHz,Raptor Lake,65 W,Intel UHD Graphics 770,4.5,$604.00
+Intel Xeon E5-2640 V3,8,2.6 GHz,3.4 GHz,Haswell,90 W,None,4.0,None
+Intel Celeron 420,1,1.6 GHz,None,Core,35 W,None,None,$69.95
+AMD Ryzen 5 7600X3D,6,4.1 GHz,4.7 GHz,Zen 4,65 W,Radeon,None,None
+Intel Core i5-9500,6,3 GHz,4.4 GHz,Coffee Lake Refresh,65 W,Intel UHD Graphics 630,5.0,$145.00
+Intel Core i7-2600K,4,3.4 GHz,None,Sandy Bridge,95 W,Intel HD Graphics 3000,4.5,$77.73
+AMD Threadripper 1950X,16,3.4 GHz,4 GHz,Zen,180 W,None,4.5,$624.95
+AMD Ryzen 9 PRO 7945,12,3.7 GHz,5.4 GHz,Zen 4,65 W,Radeon,None,None
+Intel Core i5-3570K,4,3.4 GHz,None,Ivy Bridge,77 W,Intel HD Graphics 4000,4.5,$139.00
+Intel Core i9-10900F,10,2.8 GHz,5.2 GHz,Comet Lake,65 W,None,4.5,None
+Intel Core i3-10105,4,3.7 GHz,4.4 GHz,Comet Lake,65 W,Intel UHD Graphics 630,4.5,$93.59
+Intel Core i5-4670K,4,3.4 GHz,None,Haswell,84 W,Intel HD Graphics 4600,4.5,$105.86
+Intel Core i5-2500K,4,3.3 GHz,None,Sandy Bridge,95 W,Intel HD Graphics 3000,4.5,$48.59
+Intel Core i5-9400F,6,2.9 GHz,4.1 GHz,Coffee Lake Refresh,65 W,None,5.0,None
+Intel Core i7-8700,6,3.2 GHz,4.6 GHz,Coffee Lake,65 W,Intel UHD Graphics 630,5.0,None
+Intel Core i9-9900K,8,3.6 GHz,5 GHz,Coffee Lake Refresh,95 W,Intel UHD Graphics 630,4.5,$954.81
+Intel Pentium G640,2,2.8 GHz,None,Sandy Bridge,65 W,Intel HD Graphics,4.0,$30.75
+Intel Core i7-5820K,6,3.3 GHz,3.6 GHz,Haswell,140 W,None,4.5,None
+Intel Core i7-6900K,8,3.2 GHz,3.7 GHz,Broadwell,140 W,None,4.5,$125.00
+Intel Core i5-8600,6,3.1 GHz,4.3 GHz,Coffee Lake,65 W,Intel UHD Graphics 630,5.0,$113.37
+Intel Core i9-9940X,14,3.3 GHz,4.4 GHz,Skylake,165 W,None,None,$1950.00
+AMD Ryzen 5 3600,6,3.6 GHz,4.2 GHz,Zen 2,65 W,None,5.0,None
+Intel Core i5-12600,6,3.3 GHz,4.8 GHz,Alder Lake,65 W,Intel UHD Graphics 770,4.5,$271.99
+Intel Xeon E5-2690 V4,14,2.6 GHz,3.5 GHz,Broadwell,135 W,None,5.0,None
+Intel Core i9-12900F,16,2.4 GHz,5.1 GHz,Alder Lake,65 W,None,None,$359.89
+AMD Ryzen 9 3900X,12,3.8 GHz,4.6 GHz,Zen 2,105 W,None,5.0,None
+Intel Core i5-8400,6,2.8 GHz,4 GHz,Coffee Lake,65 W,Intel UHD Graphics 630,5.0,$198.95
+Intel Core i3-7100T,2,3.4 GHz,None,Kaby Lake,35 W,Intel HD Graphics 630,5.0,$44.53
+Intel Core i5-3570,4,3.4 GHz,None,Ivy Bridge,77 W,Intel HD Graphics 2500,4.5,None
+Intel Core i5-11600,6,2.8 GHz,4.8 GHz,Rocket Lake,65 W,Intel UHD Graphics 750,5.0,$140.00
+AMD Athlon X2 340,2,3.2 GHz,None,Piledriver,65 W,None,None,None
+Intel Core i7-4790,4,3.6 GHz,4 GHz,Haswell Refresh,84 W,Intel HD Graphics 4600,4.5,None
+AMD FX-6350,6,3.9 GHz,None,Piledriver,125 W,None,4.0,None
+Intel Core i9-7900X,10,3.3 GHz,4.5 GHz,Skylake,140 W,None,4.5,None
+Intel Xeon E5-1630 V4,4,3.7 GHz,4 GHz,Broadwell,140 W,None,None,$229.95
+Intel Core i7-7700,4,3.6 GHz,4.2 GHz,Kaby Lake,65 W,Intel HD Graphics 630,4.0,$121.47
+Intel Core i7-4960X Extreme Edition,6,3.6 GHz,4 GHz,Ivy Bridge,130 W,None,5.0,$775.04
+AMD EPYC 4244P,6,3.8 GHz,5.1 GHz,Zen 4,65 W,Radeon,None,$238.99
+Intel Core i7-9700K,8,3.6 GHz,4.9 GHz,Coffee Lake Refresh,95 W,Intel UHD Graphics 630,5.0,None
+AMD EPYC 4464P,12,3.7 GHz,5.4 GHz,Zen 4,65 W,Radeon,None,$479.99
+Intel Core i5-11500,6,2.7 GHz,4.6 GHz,Rocket Lake,65 W,Intel UHD Graphics 750,4.5,$335.28
+AMD Threadripper 1920X,12,3.5 GHz,4 GHz,Zen,180 W,None,4.5,$250.00
+Intel Core i3-12100T,4,2.2 GHz,4.1 GHz,Alder Lake,35 W,Intel UHD Graphics 730,None,None
+Intel Pentium G4400,2,3.3 GHz,None,Skylake,54 W,Intel HD Graphics 510,4.0,$30.99
+AMD Threadripper 2970WX,24,3 GHz,4.2 GHz,Zen+,250 W,None,None,$894.99
+Intel Core i7-8086K,6,4 GHz,5 GHz,Coffee Lake,95 W,Intel UHD Graphics 630,4.5,None
+Intel Core i9-10900X,10,3.7 GHz,4.7 GHz,Cascade Lake,165 W,None,5.0,$809.98
+Intel Xeon E5-2620,6,2 GHz,None,Sandy Bridge,95 W,None,None,$36.75
+Intel Celeron G5900,2,3.4 GHz,None,Comet Lake,58 W,Intel UHD Graphics 610,5.0,$67.98
+Intel Core i9-12900,16,2.4 GHz,5.1 GHz,Alder Lake,65 W,Intel UHD Graphics 770,None,$442.28
+AMD Ryzen 5 5600XT,6,3.7 GHz,4.7 GHz,Zen 3,65 W,None,None,None
+Intel Core i9-13900T,24,1.1 GHz,5.3 GHz,Raptor Lake,35 W,Intel UHD Graphics 770,5.0,None
+Intel Celeron G5925,2,3.6 GHz,None,Comet Lake,58 W,Intel UHD Graphics 610,None,$59.99
+Intel Pentium Gold G6400,2,4 GHz,None,Comet Lake,58 W,Intel UHD Graphics 610,5.0,$73.95
+Intel Core i9-9900,8,3.1 GHz,5 GHz,Coffee Lake Refresh,65 W,Intel UHD Graphics 630,4.5,None
+AMD FX-9590,8,4.7 GHz,5 GHz,Piledriver,220 W,None,4.5,$292.58
+Intel Core i7-4770S,4,3.1 GHz,None,Haswell,65 W,Intel HD Graphics 4600,4.5,$99.00
+Intel Core i5-6500,4,3.2 GHz,3.6 GHz,Skylake,65 W,Intel HD Graphics 530,None,$149.94
+Intel Core i9-13900F,24,2 GHz,5.6 GHz,Raptor Lake,65 W,None,None,None
+Intel Core i5-8500T,6,2.1 GHz,3.5 GHz,Coffee Lake,35 W,Intel UHD Graphics 630,5.0,$125.00
+Intel Core i3-6300,2,3.8 GHz,None,Skylake,51 W,Intel HD Graphics 530,4.5,$32.39
+Intel Xeon E5-2650 V4,12,2.2 GHz,2.9 GHz,Broadwell,105 W,None,None,None
+Intel Core i7-7700K,4,4.2 GHz,4.5 GHz,Kaby Lake,91 W,Intel HD Graphics 630,None,None
+Intel Core i7-7820X,8,3.6 GHz,4.5 GHz,Skylake,140 W,None,4.5,$1208.32
+Intel Celeron E3400,2,2.6 GHz,None,Wolfdale,65 W,None,None,$18.98
+Intel Core i9-10900,10,2.8 GHz,5.2 GHz,Comet Lake,65 W,Intel UHD Graphics 630,4.5,$410.00
+Intel Core i7-4930K,6,3.4 GHz,3.9 GHz,Ivy Bridge,130 W,None,4.5,$98.00
+Intel Core i9-9900K (Standard Folding Box),8,3.6 GHz,5 GHz,Coffee Lake Refresh,95 W,Intel UHD Graphics 630,4.5,$598.88
+AMD Ryzen 5 2600,6,3.4 GHz,3.9 GHz,Zen+,65 W,None,None,None
+AMD Ryzen 3 1300X,4,3.5 GHz,3.7 GHz,Zen,65 W,None,4.5,None
+Intel Xeon E5-2630 V4,10,2.2 GHz,3.1 GHz,Broadwell,85 W,None,None,$255.06
+Intel Pentium G630,2,2.7 GHz,None,Sandy Bridge,65 W,Intel HD Graphics,None,$30.74
+Intel Core i7-2700K,4,3.5 GHz,None,Sandy Bridge,95 W,Intel HD Graphics 3000,4.5,$175.86
+Intel Core i5-4440,4,3.1 GHz,3.3 GHz,Haswell,84 W,Intel HD Graphics 4600,4.5,$100.00
+AMD FX-8320,8,3.5 GHz,None,Piledriver,125 W,None,4.5,None
+Intel Core i3-3220,2,3.3 GHz,None,Ivy Bridge,55 W,Intel HD Graphics 2500,4.5,None
+Intel Core i7-6700K,4,4 GHz,4.2 GHz,Skylake,91 W,Intel HD Graphics 530,4.5,None
+AMD Ryzen 3 1200 (12nm),4,3.1 GHz,3.4 GHz,Zen+,65 W,None,4.5,$89.80
+Intel Pentium G4560,2,3.5 GHz,None,Kaby Lake,54 W,Intel HD Graphics 610,4.5,$79.00
+Intel Core i7-7800X,6,3.5 GHz,4 GHz,Skylake,140 W,None,4.5,$499.99
+Intel Core i5-2500,4,3.3 GHz,None,Sandy Bridge,95 W,Intel HD Graphics 2000,4.5,None
+AMD Ryzen 7 3800X,8,3.9 GHz,4.5 GHz,Zen 2,105 W,None,5.0,None
+Intel Core i5-14500T,14,1.7 GHz,4.8 GHz,Raptor Lake Refresh,35 W,Intel UHD Graphics 770,None,None
+AMD Ryzen 5 3600X,6,3.8 GHz,4.4 GHz,Zen 2,95 W,None,None,None
+Intel 300,2,3.9 GHz,None,Raptor Lake Refresh,46 W,Intel UHD Graphics 710,None,$116.45
+Intel Core i9-11900,8,2.5 GHz,5.2 GHz,Rocket Lake,65 W,Intel UHD Graphics 750,5.0,$395.00
+Intel Core i9-11900F,8,2.5 GHz,5.2 GHz,Rocket Lake,65 W,None,None,None
+Intel Xeon E5-2683 V4,16,2.1 GHz,3 GHz,Broadwell,120 W,None,None,$1998.95
+AMD Ryzen 3 3200G,4,3.6 GHz,4 GHz,Zen+,65 W,Radeon Vega 8,5.0,None
+Intel Xeon E5-2695 V4,18,2.1 GHz,3.3 GHz,Broadwell,120 W,None,None,None
+Intel Core i5-9600K,6,3.7 GHz,4.6 GHz,Coffee Lake Refresh,95 W,Intel UHD Graphics 630,None,None
+AMD FX-4350,4,4.2 GHz,None,Piledriver,125 W,None,4.5,$82.96
+AMD Ryzen 5 2600X,6,3.6 GHz,4.2 GHz,Zen+,95 W,None,4.5,None
+Intel Core i3-2100,2,3.1 GHz,None,Sandy Bridge,65 W,Intel HD Graphics 2000,4.0,$49.00
+Intel Core i9-10940X,14,3.3 GHz,4.8 GHz,Cascade Lake,165 W,None,None,None
+Intel Core i7-6850K,6,3.6 GHz,3.8 GHz,Broadwell,140 W,None,4.5,$105.00
+AMD Ryzen 5 3600,6,3.6 GHz,4.2 GHz,Zen 2,65 W,None,5.0,None
+AMD Ryzen 9 3900,12,3.1 GHz,None,Zen 2,65 W,None,None,None
+Intel Xeon E5-4620,8,2.2 GHz,2.6 GHz,Sandy Bridge,95 W,None,None,$58.77
+AMD Ryzen 5 3400G,4,3.7 GHz,4.2 GHz,Zen+,65 W,Radeon Vega 11,None,None
+Intel Core i3-4170,2,3.7 GHz,None,Haswell Refresh,54 W,Intel HD Graphics 4400,4.5,None
+AMD FX-8300,8,3.3 GHz,None,Piledriver,95 W,None,4.0,$111.37
+Intel Core i7-9700,8,3 GHz,4.7 GHz,Coffee Lake Refresh,65 W,Intel HD Graphics 630,None,$335.01
+Intel Xeon E5-2698 V4,20,2.2 GHz,3.6 GHz,Broadwell,135 W,None,None,None
+Intel Core i5-13500T,14,1.6 GHz,4.6 GHz,Raptor Lake,35 W,Intel UHD Graphics 770,None,None
+AMD Threadripper 1900X,8,3.8 GHz,4 GHz,Zen,180 W,None,4.5,$240.00
+AMD EPYC 4344P,8,3.8 GHz,5.3 GHz,Zen 4,65 W,Radeon,None,$350.99
+AMD A8-6600K,4,3.9 GHz,None,Piledriver,100 W,Radeon HD 8570D,4.5,$92.86
+Intel Core i7-6700,4,3.4 GHz,4 GHz,Skylake,65 W,Intel HD Graphics 530,None,$395.05
+Intel Xeon E5-2699 V3,18,2.3 GHz,3.6 GHz,Haswell,145 W,None,None,None
+Intel Celeron G4900,2,3.1 GHz,None,Coffee Lake,65 W,Intel UHD Graphics 610,None,$48.59
+AMD A10-9700,4,3.5 GHz,3.8 GHz,Excavator,65 W,Radeon R7 (on-die),None,$135.22
+Intel Core i5-7400T,4,2.4 GHz,3 GHz,Kaby Lake,35 W,Intel HD Graphics 630,None,$64.56
+Intel Core i9-9980XE,18,3 GHz,4.4 GHz,Skylake,165 W,None,None,$1498.95
+Intel Celeron G5905,2,3.5 GHz,None,Comet Lake,58 W,Intel UHD Graphics 610,None,None
+Intel Core i7-5930K,6,3.5 GHz,3.7 GHz,Haswell,140 W,None,4.5,None
+Intel Xeon E5-2630 V3,8,2.4 GHz,3.2 GHz,Haswell,85 W,None,5.0,$169.95
+AMD Phenom II X6 1090T Black,6,3.2 GHz,None,K10,125 W,None,4.0,$291.98
+Intel Core i7-920,4,2.66 GHz,None,Nehalem,130 W,None,4.5,$80.00
+Intel Core i7-5960X,8,3 GHz,3.5 GHz,Haswell,140 W,None,4.5,None
+Intel Core i5-9600,6,3.1 GHz,4.6 GHz,Coffee Lake Refresh,65 W,Intel UHD Graphics 630,None,$113.37
+Intel Xeon E5-1650 V4,6,3.6 GHz,4 GHz,Broadwell,140 W,None,None,$114.94
+AMD FX-6300,6,3.5 GHz,None,Piledriver,95 W,None,None,$58.02
+AMD Athlon II X4 640,4,3 GHz,None,K10,95 W,None,5.0,$53.01
+Intel Xeon E5-2670 V3,12,2.3 GHz,3.1 GHz,Haswell,120 W,None,5.0,None
+Intel Core i7-7740X,4,4.3 GHz,4.5 GHz,Kaby Lake,112 W,None,5.0,None
+Intel Xeon E5-2667 V3,8,3.2 GHz,3.6 GHz,Haswell,135 W,None,5.0,$298.95
+AMD Threadripper 2950X,16,3.5 GHz,4.4 GHz,Zen+,180 W,None,5.0,None
+AMD A8-7600,4,3.1 GHz,3.8 GHz,Steamroller,65 W,Radeon R7 (on-die),4.5,$113.07
+AMD Ryzen 5 2400G,4,3.6 GHz,3.9 GHz,Zen,65 W,Radeon Vega 11,5.0,None
+AMD FX-8370,8,4 GHz,4.3 GHz,Piledriver,125 W,None,4.5,$257.01
+AMD EPYC 4364P,8,4.5 GHz,5.4 GHz,Zen 4,105 W,Radeon,None,$389.99
+Intel Core i5-3330,4,3 GHz,None,Ivy Bridge,77 W,Intel HD Graphics 2500,4.5,None
+Intel Core i7-13700T,16,1.4 GHz,4.9 GHz,Raptor Lake,35 W,None,4.0,None
+Intel Pentium Gold G6600,2,4.2 GHz,None,Comet Lake,58 W,Intel UHD Graphics 630,None,$189.51
+Intel Xeon E5-2697 V4,18,2.3 GHz,3.6 GHz,Broadwell,145 W,None,None,None
+AMD FX-8320,8,3.5 GHz,None,Piledriver,125 W,None,5.0,$106.55
+Intel Core i3-2120,2,3.3 GHz,None,Sandy Bridge,65 W,Intel HD Graphics 2000,4.5,$199.28
+Intel Core i5-10600,6,3.3 GHz,4.8 GHz,Comet Lake,65 W,Intel UHD Graphics 630,4.5,$529.95
+Intel Xeon E5-2683 V4,16,2.1 GHz,3 GHz,Broadwell,120 W,None,None,$329.95
+Intel Core i5-8600K,6,3.6 GHz,4.3 GHz,Coffee Lake,95 W,Intel UHD Graphics 630,None,None
+AMD 5350,4,2.05 GHz,None,Jaguar,25 W,Radeon HD 8400,4.5,None
+AMD FX-6100,6,3.3 GHz,None,Bulldozer,95 W,None,4.5,$72.80
+Intel Core i7-7700T,4,2.9 GHz,3.8 GHz,Kaby Lake,35 W,Intel HD Graphics 630,4.0,$498.95
+Intel Core i5-4670,4,3.4 GHz,None,Haswell,84 W,Intel HD Graphics 4600,4.5,$118.22
+AMD Ryzen 5 5600T,6,3.5 GHz,4.5 GHz,Zen 3,65 W,None,None,None
+Intel Core i7-9700F,8,3 GHz,4.7 GHz,Coffee Lake Refresh,65 W,None,None,$279.00
+Intel Core i7-3930K,6,3.2 GHz,None,Sandy Bridge,130 W,None,4.5,$298.98
+Intel Core i7-4820K,4,3.7 GHz,3.9 GHz,Ivy Bridge,130 W,None,4.5,$198.00
+Intel Pentium Gold G5400,2,3.7 GHz,None,Coffee Lake,58 W,Intel UHD Graphics 610,4.5,None
+Intel Core 2 Quad Q9300,4,2.5 GHz,None,Yorkfield,95 W,None,4.0,$42.60
+Intel Xeon E5-2680 V3,12,2.5 GHz,3.3 GHz,Haswell,120 W,None,None,None
+AMD A10-6700,4,3.7 GHz,None,Piledriver,65 W,Radeon HD 8670D,None,$83.22
+Intel Core i7-3770S,4,3.1 GHz,None,Ivy Bridge,65 W,Intel HD Graphics 4000,4.5,$70.00
+Intel Core i7-6950X,10,3 GHz,3.5 GHz,Broadwell,140 W,None,5.0,$735.61
+AMD Ryzen 9 3950X,16,3.5 GHz,4.7 GHz,Zen 2,105 W,None,None,None
+Intel Core i7-980X Extreme Edition,6,3.33 GHz,None,Westmere,130 W,None,5.0,None
+Intel Core i3-13100T,4,2.5 GHz,4.2 GHz,Raptor Lake,35 W,Intel UHD Graphics 730,None,None
+Intel Core i5-13600,14,2.7 GHz,5 GHz,Raptor Lake,65 W,Intel UHD Graphics 770,None,None
+Intel Core i9-9980XE,18,3 GHz,4.4 GHz,Skylake,165 W,None,None,$1814.98
+Intel Core i5-8400T,6,1.7 GHz,3.3 GHz,Coffee Lake,35 W,Intel UHD Graphics 630,None,$113.37
+Intel Core i3-7320,2,4.1 GHz,None,Kaby Lake,51 W,Intel HD Graphics 630,None,$59.00
+AMD FX-4350,4,4.2 GHz,None,Piledriver,125 W,None,None,$55.05
+Intel Core i5-9600KF,6,3.7 GHz,4.6 GHz,Coffee Lake Refresh,95 W,None,5.0,$344.99
+Intel Core 2 Quad Q9550,4,2.83 GHz,None,Yorkfield,95 W,None,None,$52.55
+Intel Xeon E5-2620 V3,6,2.4 GHz,3.2 GHz,Haswell,85 W,None,None,$88.00
+Intel Core i5-650,2,3.2 GHz,None,Westmere,73 W,Intel HD Graphics,4.0,$32.39
+Intel Core i3-4160,2,3.6 GHz,None,Haswell Refresh,54 W,Intel HD Graphics 4400,4.5,None
+AMD Athlon II 160u,1,1.8 GHz,None,K10,20 W,None,None,None
+AMD Ryzen 5 PRO 7645,6,3.8 GHz,5.1 GHz,Zen 4,65 W,Radeon,None,None
+Intel Xeon E5-2697 V2,12,2.7 GHz,3.5 GHz,Ivy Bridge,130 W,None,None,None
+AMD Ryzen 7 PRO 7745,8,3.8 GHz,5.3 GHz,Zen 4,65 W,Radeon,None,None
+AMD A10-7850K,4,3.7 GHz,4 GHz,Steamroller,95 W,Radeon R7 (on-die),4.5,$139.84
+Intel Core i7-5820K,6,3.3 GHz,3.6 GHz,Haswell,140 W,None,4.0,$429.95
+Intel Celeron G3900,2,2.8 GHz,None,Skylake,51 W,Intel HD Graphics 510,None,$48.56
+Intel Core i5-3450,4,3.1 GHz,None,Ivy Bridge,77 W,Intel HD Graphics 2500,4.5,$95.00
+Intel Core i7-3820,4,3.6 GHz,None,Sandy Bridge,130 W,None,4.5,None
+Intel Core i7-8700T,6,2.4 GHz,4 GHz,Coffee Lake,35 W,Intel UHD Graphics 630,None,$285.38
+AMD FX-4300,4,3.8 GHz,None,Piledriver,95 W,None,4.0,None
+Intel Core i7-4790S,4,3.2 GHz,4 GHz,Haswell Refresh,65 W,Intel HD Graphics 4000,5.0,None
+Intel Xeon E5-2680,8,2.7 GHz,3.5 GHz,Sandy Bridge,130 W,None,4.5,$110.00
+Intel Xeon E5-1620 V2,4,3.7 GHz,3.9 GHz,Ivy Bridge,130 W,None,5.0,None
+Intel Xeon E5-2640 V4,10,2.4 GHz,3.4 GHz,Broadwell,90 W,None,None,None
+Intel Core i5-3470S,4,2.9 GHz,None,Ivy Bridge,65 W,Intel HD Graphics 2500,None,$44.99
+AMD A10-5700,4,3.4 GHz,None,Piledriver,65 W,Radeon HD 7660D,None,$72.51
+Intel Core i7-860,4,2.8 GHz,None,Nehalem,95 W,None,4.0,$203.98
+Intel Core i3-8350K,4,4 GHz,None,Coffee Lake,91 W,Intel UHD Graphics 630,4.5,None
+AMD A8-9600,4,3.1 GHz,3.4 GHz,Excavator,65 W,Radeon R7 (on-die),None,None
+Intel Core i9-10850KA Avengers Limited Edition,10,3.6 GHz,5.2 GHz,Comet Lake,125 W,Intel UHD Graphics 630,None,None
+AMD Ryzen 7 1700X,8,3.4 GHz,3.8 GHz,Zen,95 W,None,4.0,None
+Intel Core i7-870,4,2.93 GHz,None,Nehalem,95 W,None,4.0,$48.59
+Intel Core 2 Quad Q6600,4,2.4 GHz,None,Core,100 W,None,3.5,None
+Intel Core i7-6700T,4,2.8 GHz,3.6 GHz,Skylake,35 W,Intel HD Graphics 530,None,None
+Intel Core i3-8100T,4,3.1 GHz,None,Coffee Lake,35 W,Intel UHD Graphics 630,None,None
+AMD EPYC 4584PX,16,4.2 GHz,5.7 GHz,Zen 4,120 W,Radeon,None,None
+Intel Core i7-4770K,4,3.5 GHz,3.9 GHz,Haswell,84 W,Intel HD Graphics 4600,5.0,$300.00
+Intel Xeon E5-2650,8,2 GHz,2.8 GHz,Sandy Bridge,95 W,None,5.0,$69.94
+Intel Core i5-4430,4,3 GHz,None,Haswell,84 W,Intel HD Graphics 4600,4.5,None
+Intel Core i5-6402P,4,2.8 GHz,3.4 GHz,Skylake,65 W,Intel HD Graphics 510,3.5,$74.02
+Intel Xeon E-2288G,8,3.7 GHz,5 GHz,Coffee Lake Refresh,95 W,Intel HD Graphics P630,None,None
+AMD FX-6120,6,3.5 GHz,4.1 GHz,Bulldozer,95 W,None,None,$58.53
+Intel Core i5-4570T,2,2.9 GHz,None,Haswell,35 W,Intel HD Graphics 4600,3.0,$70.81
+Intel Core i5-3550,4,3.3 GHz,None,Ivy Bridge,77 W,Intel HD Graphics 2500,4.0,$335.00
+Intel Core i5-2320,4,3 GHz,None,Sandy Bridge,95 W,Intel HD Graphics 2000,4.0,None
+Intel Core i3-530,2,2.93 GHz,None,Westmere,73 W,Intel HD Graphics,3.0,$45.00
+Intel Core i5-9500T,6,2.2 GHz,3.7 GHz,Coffee Lake Refresh,35 W,Intel UHD Graphics 630,None,None
+AMD A8-7680,4,3.5 GHz,3.8 GHz,Puma+,65 W,Radeon R7 (on-die),None,None
+AMD FX-8350,8,4 GHz,None,Piledriver,125 W,None,4.5,$192.49
+AMD A10-7700K,4,3.4 GHz,3.8 GHz,Steamroller,95 W,Radeon R7 (on-die),4.5,$132.86
+AMD Ryzen 7 PRO 7745,8,3.8 GHz,5.3 GHz,Zen 4,65 W,Radeon,None,None
+Intel Core i3-2120T,2,2.6 GHz,None,Sandy Bridge,35 W,Intel HD Graphics 2000,5.0,$40.00
+Intel Pentium Gold G6405,2,4.1 GHz,None,Comet Lake,58 W,Intel UHD Graphics 610,None,$99.99
+Intel Core i7-3970X Extreme Edition,6,3.5 GHz,None,Sandy Bridge,150 W,None,5.0,$175.00
+Intel Xeon E3-1231 V3,4,3.4 GHz,3.8 GHz,Haswell Refresh,80 W,None,4.5,None
+Intel Core i7-10700K Avengers Collector\\\'s Edition,8,3.8 GHz,5.1 GHz,Comet Lake,125 W,Intel UHD Graphics 630,None,$741.00
+Intel Core i5-4690,4,3.5 GHz,3.9 GHz,Haswell Refresh,84 W,Intel HD Graphics 4600,None,$48.59
+AMD A6-7400K,2,3.5 GHz,3.9 GHz,Steamroller,65 W,Radeon R5 (on die),4.0,$89.98
+Intel Core i5-7600K,4,3.8 GHz,4.2 GHz,Kaby Lake,91 W,Intel HD Graphics 630,None,None
+AMD Ryzen 3 2200G,4,3.5 GHz,3.7 GHz,Zen,65 W,Radeon Vega 8,None,None
+AMD Phenom II X4 820,4,2.8 GHz,None,K10,95 W,None,None,$52.64
+Intel Xeon E3-1270 V3,4,3.5 GHz,3.9 GHz,Haswell,80 W,None,None,$410.00
+Intel Core i7-2600S,4,2.8 GHz,None,Sandy Bridge,65 W,Intel HD Graphics 2000,5.0,$99.99
+Intel Core i3-3240,2,3.4 GHz,None,Ivy Bridge,55 W,Intel HD Graphics 2500,4.0,$199.00
+AMD A10-7800,4,3.5 GHz,3.9 GHz,Steamroller,65 W,Radeon R7 (on-die),None,None
+Intel Xeon E5-2697 V3,14,2.6 GHz,3.6 GHz,Haswell,145 W,None,5.0,None
+Intel Core i9-7980XE,18,2.6 GHz,4.4 GHz,Skylake,165 W,None,None,$1249.95
+Intel Core i7-5775C,4,3.3 GHz,3.7 GHz,Broadwell,65 W,Iris Pro Graphics 6200,5.0,None
+Intel Core i5-4690K,4,3.5 GHz,3.9 GHz,Haswell Refresh,88 W,Intel HD Graphics 4600,5.0,None
+Intel Core i7-9800X,8,3.8 GHz,4.5 GHz,Skylake,165 W,None,None,None
+Intel Core i7-4770K,4,3.5 GHz,3.9 GHz,Haswell,84 W,Intel HD Graphics 4600,None,$115.00
+Intel Core i5-750,4,2.66 GHz,None,Nehalem,95 W,None,4.5,$86.28
+AMD Phenom II X4 965 Black,4,3.4 GHz,None,K10,125 W,None,4.5,None
+AMD A8-5600K,4,3.6 GHz,None,Piledriver,100 W,Radeon HD 7560D,4.0,$184.28
+Intel Xeon E5-2620 V4,8,2.1 GHz,3 GHz,Broadwell,85 W,None,5.0,None
+AMD FX-6350,6,3.9 GHz,None,Piledriver,125 W,None,4.5,None
+Intel Core i5-760,4,2.8 GHz,None,Nehalem,95 W,None,5.0,$32.39
+Intel Core i3-9100T,4,3.1 GHz,3.7 GHz,Coffee Lake Refresh,35 W,Intel UHD Graphics 630,None,None
+Intel Core i9-9900X,10,3.5 GHz,4.4 GHz,Skylake,165 W,None,None,$579.99
+Intel Core 2 Quad Q9650,4,3 GHz,None,Yorkfield,95 W,None,5.0,None
+Intel Core i5-2310,4,2.9 GHz,None,Sandy Bridge,95 W,Intel HD Graphics 2000,4.5,None
+Intel Core i5-7500,4,3.4 GHz,3.8 GHz,Kaby Lake,65 W,Intel HD Graphics 630,None,None
+Intel Pentium G2120,2,3.1 GHz,None,Ivy Bridge,55 W,Intel HD Graphics,4.0,$35.00
+AMD FX-9370,8,4.4 GHz,4.7 GHz,Piledriver,220 W,None,4.0,$216.59
+Intel Core 2 Duo E7500,2,2.93 GHz,None,Wolfdale,65 W,None,4.5,$149.00
+Intel Core i7-990X Extreme Edition,6,3.467 GHz,None,Westmere,130 W,None,4.0,None
+AMD A10-6800K,4,4.1 GHz,None,Piledriver,100 W,Radeon HD 8670D,4.5,None
+Intel Core i5-4590S,4,3 GHz,3.7 GHz,Haswell Refresh,65 W,Intel HD Graphics 4000,4.5,None
+Intel Core i5-9500F,6,3 GHz,4.4 GHz,Coffee Lake Refresh,65 W,None,None,None
+AMD Athlon X4 860K,4,3.7 GHz,4 GHz,Steamroller,95 W,None,4.5,None
+Intel Core i5-6400,4,2.7 GHz,3.3 GHz,Skylake,65 W,Intel HD Graphics 530,4.5,None
+Intel Core 2 Extreme QX9770,4,3.2 GHz,None,Yorkfield,136 W,None,5.0,None
+AMD FX-8320E,8,3.2 GHz,4 GHz,Piledriver,95 W,None,4.5,None
+Intel Core i5-9400,6,2.9 GHz,4.1 GHz,Coffee Lake Refresh,65 W,Intel UHD Graphics 630,None,None
+Intel Pentium G3258,2,3.2 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,4.5,$124.99
+Intel Xeon E5-2690 V3,12,2.6 GHz,3.5 GHz,Haswell,135 W,None,5.0,None
+Intel Core i9-9960X,16,3.1 GHz,4.4 GHz,Skylake,165 W,None,None,$999.99
+Intel Celeron G3930,2,2.9 GHz,None,Kaby Lake,51 W,Intel HD Graphics 610,4.5,$54.33
+Intel Pentium G2020,2,2.9 GHz,None,Ivy Bridge,55 W,Intel HD Graphics,4.5,$34.99
+AMD A10-6700,4,3.7 GHz,None,Piledriver,65 W,Radeon HD 8670D,5.0,$102.76
+AMD A6-9500E,2,3 GHz,3.4 GHz,Excavator,35 W,Radeon R5 (on die),None,None
+Intel Core i3-9350KF,4,4 GHz,4.6 GHz,Coffee Lake Refresh,91 W,None,4.0,$136.06
+Intel Core i9-9820X,10,3.3 GHz,4.1 GHz,Skylake,165 W,None,4.5,None
+Intel Core i3-10300,4,3.7 GHz,4.4 GHz,Comet Lake,65 W,Intel UHD Graphics 630,5.0,$159.99
+Intel Celeron G3930T,2,2.7 GHz,None,Kaby Lake,35 W,Intel HD Graphics 610,None,$39.00
+Intel Celeron G4900,2,3.1 GHz,None,Coffee Lake,65 W,Intel UHD Graphics 610,4.5,$72.55
+Intel Xeon E3-1230 V2,4,3.3 GHz,None,Ivy Bridge,69 W,None,5.0,$274.00
+Intel Core i5-6500T,4,2.5 GHz,3.1 GHz,Skylake,35 W,Intel HD Graphics 530,None,$229.95
+Intel Celeron G440,1,1.6 GHz,None,Sandy Bridge,35 W,Intel HD Graphics,None,None
+Intel Xeon E5-2650 V2,8,2.6 GHz,3.4 GHz,Ivy Bridge,95 W,None,5.0,None
+Intel Xeon E3-1230 V3,4,3.3 GHz,3.7 GHz,Haswell,80 W,None,4.5,$309.00
+AMD Athlon II X4 630,4,2.8 GHz,None,K10,95 W,None,None,$48.04
+AMD A10-7890K,4,4.1 GHz,4.3 GHz,Steamroller,95 W,Radeon R7 (on-die),4.5,None
+Intel Xeon E5-1620 V4,4,3.5 GHz,3.8 GHz,Broadwell,140 W,None,None,$232.12
+Intel Pentium E5400,2,2.7 GHz,None,Wolfdale,65 W,None,4.0,None
+Intel Core i5-2300,4,2.8 GHz,None,Sandy Bridge,95 W,Intel HD Graphics 2000,4.5,None
+Intel Pentium G3220,2,3 GHz,None,Haswell,54 W,Intel HD Graphics,4.5,None
+Intel Xeon E5-2690 V2,10,3 GHz,3.6 GHz,Ivy Bridge,130 W,None,5.0,None
+Intel Xeon E5-1660 V3,8,3 GHz,3.5 GHz,Haswell,140 W,None,5.0,$204.44
+Intel Xeon E5-2630,6,2.3 GHz,None,Sandy Bridge,95 W,None,None,$47.66
+Intel Xeon E5-1620 V3,4,3.5 GHz,3.6 GHz,Haswell,140 W,None,4.0,$111.00
+Intel Core i3-7100,2,3.9 GHz,None,Kaby Lake,51 W,Intel HD Graphics 630,None,$76.77
+AMD Phenom II X6 1100T Black,6,3.3 GHz,None,K10,125 W,None,4.0,None
+Intel Xeon E5-1650 V2,6,3.5 GHz,3.9 GHz,Ivy Bridge,130 W,None,4.0,$235.03
+Intel Core i3-6100T,2,3.2 GHz,None,Skylake,35 W,Intel HD Graphics 530,None,None
+Intel Xeon E3-1240L V5,4,2.1 GHz,3.2 GHz,Skylake,25 W,None,None,None
+Intel Celeron 430,1,1.8 GHz,None,Core,35 W,None,None,$59.95
+Intel Xeon E5-2660 V3,10,2.6 GHz,3.3 GHz,Haswell,105 W,None,None,$149.94
+AMD Ryzen 3 1200 (12nm),4,3.1 GHz,3.4 GHz,Zen+,65 W,None,None,None
+Intel Core i7-950,4,3.06 GHz,None,Nehalem,130 W,None,4.5,$84.15
+Intel Pentium G645,2,2.9 GHz,None,Sandy Bridge,65 W,Intel HD Graphics 2500,None,$40.99
+Intel Xeon E5-2660 V4,14,2 GHz,3.2 GHz,Broadwell,105 W,None,5.0,$399.00
+Intel Core i7-3960X Extreme Edition,6,3.3 GHz,None,Sandy Bridge,130 W,None,5.0,$250.00
+Intel Core i5-6500T,4,2.5 GHz,3.1 GHz,Skylake,35 W,Intel HD Graphics 530,5.0,None
+Intel Core i9-9920X,12,3.5 GHz,4.4 GHz,Skylake,165 W,None,None,None
+AMD Athlon X4 950,4,3.5 GHz,3.8 GHz,Excavator,65 W,None,3.5,None
+AMD A10-5800K,4,3.8 GHz,None,Piledriver,100 W,Radeon HD 7660D,4.5,None
+Intel Core 2 Extreme QX9775,4,3.2 GHz,None,Yorkfield,150 W,None,None,$1298.00
+AMD Athlon X2 370K,2,4.2 GHz,None,Piledriver,65 W,None,None,None
+AMD FX-9590,8,4.7 GHz,5 GHz,Piledriver,220 W,None,5.0,None
+Intel Core i5-6600,4,3.3 GHz,3.9 GHz,Skylake,65 W,Intel HD Graphics 530,None,None
+Intel Core i5-7640X,4,4 GHz,4.2 GHz,Kaby Lake,112 W,None,None,$603.08
+Intel Core i7-960,4,3.2 GHz,None,Nehalem,130 W,None,5.0,$150.00
+AMD FX-8370,8,4 GHz,4.3 GHz,Piledriver,125 W,None,4.5,$293.33
+Intel Pentium Gold G5420,2,3.8 GHz,None,Coffee Lake,54 W,Intel UHD Graphics 610,None,None
+Intel Core i3-6100,2,3.7 GHz,None,Skylake,51 W,Intel HD Graphics 530,None,$98.95
+Intel Core i5-2400S,4,2.5 GHz,None,Sandy Bridge,65 W,Intel HD Graphics 2000,None,$150.69
+Intel Core i5-7400,4,3 GHz,3.5 GHz,Kaby Lake,65 W,Intel HD Graphics 630,None,$184.60
+AMD A8-5500,4,3.2 GHz,None,Piledriver,65 W,Radeon HD 7560D,4.0,None
+Intel Core i5-4570S,4,2.9 GHz,None,Haswell,65 W,Intel HD Graphics 4600,4.5,None
+Intel Xeon E5-1650 V3,6,3.5 GHz,3.8 GHz,Haswell,140 W,None,None,None
+Intel Xeon E3-1245 V5,4,3.5 GHz,3.9 GHz,Skylake,80 W,Intel HD Graphics P530,None,None
+Intel Core i9-10850K,10,3.6 GHz,5.2 GHz,Comet Lake,125 W,Intel UHD Graphics 630,5.0,None
+Intel Core 2 Quad Q9400,4,2.66 GHz,None,Yorkfield,95 W,None,4.0,None
+Intel Core i5-5675C,4,3.1 GHz,3.6 GHz,Broadwell,65 W,Iris Pro Graphics 6200,5.0,None
+AMD A12-9800,4,3.8 GHz,4.2 GHz,Excavator,65 W,Radeon R7 (on-die),None,None
+Intel Core i3-10100T,4,3 GHz,3.8 GHz,Comet Lake,35 W,Intel UHD Graphics 630,None,None
+AMD A12-9800E,4,3.1 GHz,3.8 GHz,Excavator,35 W,Radeon R7 (on-die),None,$142.82
+Intel Core i3-8100,4,3.6 GHz,None,Coffee Lake,65 W,Intel UHD Graphics 630,None,$124.90
+AMD FX-8150,8,3.6 GHz,None,Bulldozer,125 W,None,4.5,None
+AMD 5150,4,1.6 GHz,None,Jaguar,25 W,Radeon HD 8400,3.0,None
+Intel Core i7-9700T,8,2 GHz,4.3 GHz,Coffee Lake Refresh,35 W,Intel HD Graphics 630,None,None
+Intel Core i5-9600K,6,3.7 GHz,4.6 GHz,Coffee Lake Refresh,95 W,Intel UHD Graphics 630,None,None
+Intel Pentium E5300,2,2.6 GHz,None,Wolfdale,65 W,None,3.5,$86.24
+Intel Pentium G3420,2,3.2 GHz,None,Haswell,54 W,Intel HD Graphics,4.5,$71.73
+Intel Core i5-8500,6,3 GHz,4.1 GHz,Coffee Lake,65 W,Intel UHD Graphics 630,None,$139.00
+Intel Xeon E5-2650 V3,10,2.3 GHz,3 GHz,Haswell,105 W,None,None,None
+Intel Core i7-7800X,6,3.5 GHz,4 GHz,Skylake,140 W,None,None,$329.95
+AMD Phenom II X4 945,4,3 GHz,None,K10,125 W,None,None,None
+Intel Core 2 Duo E8600,2,3.33 GHz,None,Wolfdale,65 W,None,None,None
+AMD FX-8120,8,3.1 GHz,None,Bulldozer,125 W,None,4.0,None
+Intel Xeon E5-2667 V2,8,3.3 GHz,4 GHz,Ivy Bridge,130 W,None,None,None
+Intel Core i5-8600T,6,2.3 GHz,3.7 GHz,Coffee Lake,35 W,Intel UHD Graphics 630,4.0,None
+Intel Core i9-9900,8,3.1 GHz,5 GHz,Coffee Lake Refresh,65 W,Intel UHD Graphics 630,4.0,None
+Intel Celeron 440,1,2 GHz,None,Core,35 W,None,None,$49.99
+Intel Core 2 Quad Q9550,4,2.83 GHz,None,Yorkfield,95 W,None,4.5,$165.51
+Intel Core i5-7600,4,3.5 GHz,4.1 GHz,Kaby Lake,65 W,Intel HD Graphics 630,None,None
+AMD Phenom II X4 980 Black,4,3.7 GHz,None,K10,125 W,None,5.0,None
+AMD A10-7860k,4,3.6 GHz,4 GHz,Steamroller,65 W,Radeon R7 (on-die),4.5,None
+Intel Pentium Gold G5400T,2,3.1 GHz,None,Coffee Lake,35 W,Intel UHD Graphics 610,4.0,$90.00
+AMD A4-6300B,2,3.7 GHz,3.9 GHz,Piledriver,65 W,Radeon HD 8370D,None,$49.95
+Intel Celeron G4930,2,3.2 GHz,None,Coffee Lake,54 W,Intel UHD Graphics 610,None,None
+AMD A10-7870K,4,3.9 GHz,4.1 GHz,Steamroller,95 W,Radeon R7 (on-die),4.5,$324.60
+Intel Xeon E5-2630 V2,6,2.6 GHz,3.1 GHz,Ivy Bridge,80 W,None,None,$488.88
+Intel Core i5-4690K,4,3.5 GHz,3.9 GHz,Haswell Refresh,88 W,Intel HD Graphics 4600,5.0,None
+Intel Core i7-5930K,6,3.5 GHz,3.7 GHz,Haswell,140 W,None,None,$529.95
+Intel Core i7-7820X,8,3.6 GHz,4.5 GHz,Skylake,140 W,None,None,$495.03
+Intel Core i3-4130T,2,2.9 GHz,None,Haswell,35 W,Intel HD Graphics 4400,4.5,None
+Intel Core i3-4340,2,3.6 GHz,None,Haswell,54 W,Intel HD Graphics 4600,4.5,$92.35
+Intel Core i5-3340,4,3.1 GHz,3.3 GHz,Ivy Bridge,77 W,Intel HD Graphics 2500,4.0,$278.02
+Intel Xeon E5-2687W V2,8,3.4 GHz,4 GHz,Ivy Bridge,150 W,None,None,None
+Intel Pentium G2030,2,3 GHz,None,Ivy Bridge,55 W,Intel HD Graphics,5.0,None
+Intel Xeon E5-2650L,8,1.8 GHz,2.3 GHz,Sandy Bridge,70 W,None,None,$129.94
+Intel Xeon E5-2687W V3,10,3.1 GHz,3.5 GHz,Haswell,160 W,None,None,None
+Intel Core i5-8500,6,3 GHz,4.1 GHz,Coffee Lake,65 W,Intel UHD Graphics 630,None,None
+Intel Core i9-9900X,10,3.5 GHz,4.4 GHz,Skylake,165 W,None,5.0,None
+Intel Core i3-3250,2,3.5 GHz,None,Ivy Bridge,55 W,Intel HD Graphics 2500,5.0,$90.00
+AMD A10-9700E,4,3 GHz,3.5 GHz,Excavator,35 W,Radeon R7 (on-die),None,$132.71
+Intel Core i9-7960X,16,2.8 GHz,4.4 GHz,Skylake,165 W,None,None,None
+Intel Celeron 420,1,1.6 GHz,None,Core,35 W,None,None,None
+AMD Phenom II X6 1055T,6,2.8 GHz,None,K10,125 W,None,4.0,None
+AMD Phenom II X4 955,4,3.2 GHz,None,K10,125 W,None,4.5,None
+Intel Xeon E3-1240 V3,4,3.4 GHz,3.8 GHz,Haswell,80 W,None,4.5,None
+AMD A8-7650K,4,3.3 GHz,3.7 GHz,Steamroller,95 W,Radeon R7 (on-die),5.0,None
+Intel Core i5-4460S,4,2.9 GHz,3.4 GHz,Haswell Refresh,65 W,Intel HD Graphics 4000,None,None
+Intel Core i7-7740X,4,4.3 GHz,4.5 GHz,Kaby Lake,112 W,None,None,$215.57
+Intel Core i3-9300,4,3.7 GHz,4.3 GHz,Coffee Lake Refresh,62 W,Intel UHD Graphics 630,None,$299.95
+AMD Athlon 3000G (14nm),2,3.5 GHz,None,Zen,35 W,Radeon Vega 3,None,None
+Intel Core i5-10600K,6,4.1 GHz,4.8 GHz,Comet Lake,125 W,Intel UHD Graphics 630,None,None
+AMD A10-5800K,4,3.8 GHz,None,Piledriver,100 W,Radeon HD 7660D,None,$82.51
+Intel Core i7-870,4,2.93 GHz,None,Nehalem,95 W,None,5.0,$195.02
+Intel Core i7-930,4,2.8 GHz,None,Nehalem,130 W,None,4.5,$148.72
+Intel Xeon E-2286G,6,4 GHz,4.9 GHz,Coffee Lake Refresh,95 W,Intel HD Graphics P630,None,$815.10
+Intel Core i9-9960X,16,3.1 GHz,4.4 GHz,Skylake,165 W,None,None,None
+AMD Athlon II X4 640,4,3 GHz,None,K10,95 W,None,4.5,$74.79
+AMD A8-3870K,4,3 GHz,None,Lynx,100 W,Radeon HD 6550D,3.0,None
+AMD FX-4300,4,3.8 GHz,None,Piledriver,95 W,None,5.0,None
+Intel Xeon E5-2698 V3,16,2.3 GHz,3.6 GHz,Haswell,135 W,None,None,None
+Intel Xeon E3-1275 V2,4,3.5 GHz,None,Ivy Bridge,77 W,Intel HD Graphics P4000,None,$374.00
+Intel Core i5-3570S,4,3.1 GHz,3.8 GHz,Ivy Bridge,65 W,Intel HD Graphics 2500,None,None
+AMD Threadripper 2970WX,24,3 GHz,4.2 GHz,Zen+,250 W,None,None,None
+Intel Core i5-9500,6,3 GHz,4.4 GHz,Coffee Lake Refresh,65 W,Intel UHD Graphics 630,None,None
+Intel Core i5-4590T,4,2 GHz,None,Haswell Refresh,35 W,Intel HD Graphics 4000,None,None
+Intel Core i3-2100T,2,2.5 GHz,None,Sandy Bridge,35 W,Intel HD Graphics 2000,4.0,$82.39
+Intel Celeron G4920,2,3.2 GHz,None,Coffee Lake,65 W,Intel UHD Graphics 610,None,$73.00
+Intel Pentium E2140,2,1.6 GHz,None,Core,65 W,None,None,$79.95
+AMD Athlon II X4 645,4,3.1 GHz,None,K10,95 W,None,4.5,$59.99
+Intel Pentium E5800,2,3.2 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core i5-3350P,4,3.1 GHz,None,Ivy Bridge,69 W,None,4.5,None
+AMD A4-5300,2,3.4 GHz,None,Piledriver,65 W,Radeon HD 7480D,4.0,None
+Intel Xeon E3-1220 V3,4,3.1 GHz,3.5 GHz,Haswell,80 W,None,4.5,$149.94
+Intel Xeon E5-2630L V3,8,1.8 GHz,2.9 GHz,Haswell,55 W,None,None,$410.00
+Intel Core i5-6400T,4,2.2 GHz,2.8 GHz,Skylake,35 W,Intel HD Graphics 530,None,None
+AMD FX-8350,8,4 GHz,None,Piledriver,125 W,None,4.5,None
+Intel Pentium G4600,2,3.6 GHz,None,Kaby Lake,51 W,Intel HD Graphics 630,4.5,None
+Intel Core i3-7350K,2,4.2 GHz,None,Kaby Lake,60 W,Intel HD Graphics 630,4.5,None
+Intel Core i9-7900X,10,3.3 GHz,4.5 GHz,Skylake,140 W,None,None,$449.95
+Intel Xeon E3-1265L V3,4,2.5 GHz,3.7 GHz,Haswell,45 W,Intel HD Graphics,5.0,$398.95
+Intel Xeon E3-1245 V6,4,3.7 GHz,4.1 GHz,Kaby Lake,73 W,Intel HD Graphics P630,5.0,$345.29
+AMD Athlon II X4 635,4,2.9 GHz,None,K10,95 W,None,None,$58.02
+Intel Core i3-6098P,2,3.6 GHz,None,Skylake,54 W,Intel HD Graphics 510,4.0,$59.00
+AMD Sempron 140,1,2.7 GHz,None,K10,45 W,None,None,None
+Intel Core i3-2130,2,3.4 GHz,None,Sandy Bridge,65 W,Intel HD Graphics 2000,5.0,$40.49
+AMD FX-4100,4,3.6 GHz,None,Bulldozer,95 W,None,4.0,None
+Intel Xeon E5-2695 V2,12,2.4 GHz,3.2 GHz,Ivy Bridge,115 W,None,None,None
+AMD A6-9500,2,3.5 GHz,3.8 GHz,Excavator,65 W,Radeon R5 (on die),4.0,None
+AMD Athlon X4 760K,4,3.8 GHz,4.1 GHz,Piledriver,100 W,None,4.0,None
+Intel Xeon E5-2680 V2,10,2.8 GHz,3.6 GHz,Ivy Bridge,115 W,None,None,None
+AMD Opteron 6378,16,2.4 GHz,3.3 GHz,Piledriver,115 W,None,None,None
+AMD Threadripper 2990WX,32,3 GHz,4.2 GHz,Zen+,250 W,None,None,None
+Intel Xeon E-2278G,8,3.4 GHz,5 GHz,Coffee Lake Refresh,80 W,Intel HD Graphics P630,None,None
+Intel Pentium Gold G6605,2,4.3 GHz,None,Comet Lake,58 W,Intel UHD Graphics 630,None,$308.62
+Intel Core i9-10900K,10,3.7 GHz,5.3 GHz,Comet Lake,125 W,Intel UHD Graphics 630,None,None
+Intel Xeon E5-2470V2,10,2.4 GHz,3.2 GHz,Ivy Bridge,95 W,None,None,$229.95
+Intel Core i7-875K,4,2.93 GHz,None,Nehalem,95 W,None,5.0,$180.00
+Intel Core 2 Quad Q8400,4,2.66 GHz,None,Yorkfield,95 W,None,None,$84.95
+Intel Xeon E-2274G,4,4 GHz,4.9 GHz,Coffee Lake Refresh,83 W,Intel HD Graphics P630,None,$1098.95
+AMD Athlon II X2 250,2,3 GHz,None,K10,65 W,None,4.0,None
+AMD Phenom II X4 940 Black,4,3 GHz,None,K10,125 W,None,None,None
+Intel Core i7-4771,4,3.5 GHz,3.9 GHz,Haswell,84 W,Intel HD Graphics 4600,4.5,None
+Intel Xeon E3-1271 V3,4,3.6 GHz,4 GHz,Haswell Refresh,80 W,None,5.0,None
+Intel Xeon E5-2643 V2,6,3.5 GHz,3.8 GHz,Ivy Bridge,130 W,None,None,$398.95
+Intel Core i5-7400T,4,2.4 GHz,3 GHz,Kaby Lake,35 W,Intel HD Graphics 630,None,$78.02
+AMD Ryzen 7 1800X,8,3.6 GHz,4 GHz,Zen,95 W,None,4.0,None
+Intel Core i9-7940X,14,3.1 GHz,4.4 GHz,Skylake,165 W,None,5.0,None
+Intel Core i5-3570,4,3.4 GHz,None,Ivy Bridge,77 W,Intel HD Graphics 2500,4.0,None
+Intel Xeon E-2124,4,3.3 GHz,4.3 GHz,Coffee Lake,71 W,None,4.0,None
+Intel Xeon E-2236,6,3.4 GHz,4.8 GHz,Coffee Lake Refresh,80 W,None,None,$431.00
+Intel Core i7-980,6,3.333 GHz,None,Westmere,130 W,None,5.0,$356.02
+Intel Core 2 Quad Q6600,4,2.4 GHz,None,Core,100 W,None,3.5,$94.97
+Intel Core i3-540,2,3.06 GHz,None,Westmere,73 W,Intel HD Graphics,5.0,$103.97
+Intel Core i3-550,2,3.2 GHz,None,Westmere,73 W,Intel HD Graphics,5.0,None
+Intel Xeon E3-1225 V3,4,3.2 GHz,3.6 GHz,Haswell,84 W,Intel HD Graphics P4600,None,None
+Intel Xeon E5-2670 V2,10,2.5 GHz,3.3 GHz,Ivy Bridge,115 W,None,4.0,None
+Intel Xeon E5-2650L V2,10,1.7 GHz,2.1 GHz,Ivy Bridge,70 W,None,None,None
+Intel Xeon E3-1270 V2,4,3.5 GHz,None,Ivy Bridge,69 W,None,None,None
+Intel Xeon E3-1220 V5,4,3 GHz,3.5 GHz,Skylake,80 W,None,None,$349.95
+AMD Athlon X4 845,4,3.5 GHz,3.8 GHz,Puma+,65 W,None,4.0,None
+Intel Core i7-7700T,4,2.9 GHz,3.8 GHz,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Xeon E3-1230 V6,4,3.5 GHz,3.9 GHz,Kaby Lake,72 W,None,5.0,None
+AMD Threadripper 2950X,16,3.5 GHz,4.4 GHz,Zen+,180 W,None,None,None
+AMD Athlon 220GE,2,3.4 GHz,None,Zen,35 W,Radeon Vega 3,4.5,None
+AMD FX-8370E,8,3.3 GHz,4.3 GHz,Piledriver,95 W,None,None,$212.02
+Intel Core i3-10320,4,3.8 GHz,4.6 GHz,Comet Lake,65 W,Intel UHD Graphics 630,None,$137.99
+Intel Celeron E1400,2,2 GHz,None,Core,65 W,None,None,None
+Intel Core i7-6800K,6,3.4 GHz,3.6 GHz,Broadwell,140 W,None,None,$249.95
+Intel Celeron 430,1,1.8 GHz,None,Core,35 W,None,None,$59.95
+Intel Core 2 Quad Q8200,4,2.33 GHz,None,Yorkfield,95 W,None,4.0,None
+Intel Core 2 Quad Q9300,4,2.5 GHz,None,Yorkfield,95 W,None,None,$219.00
+Intel Celeron G1610,2,2.6 GHz,None,Ivy Bridge,55 W,Intel HD Graphics,4.5,$49.00
+AMD A8-6500,4,3.5 GHz,None,Piledriver,65 W,Radeon HD 8570D,None,None
+Intel Core i7-4790K,4,4 GHz,4.4 GHz,Haswell Refresh,88 W,Intel HD Graphics 4600,5.0,None
+Intel Xeon E5-2650L V3,12,1.8 GHz,2.5 GHz,Haswell,65 W,None,None,None
+AMD Athlon X4 880K,4,4 GHz,4.2 GHz,Steamroller,95 W,None,4.0,None
+Intel Core i9-9900T,8,2.1 GHz,4.4 GHz,Coffee Lake Refresh,35 W,Intel UHD Graphics 630,None,None
+Intel Celeron G3920,2,2.6 GHz,None,Skylake,35 W,Intel HD Graphics 510,None,$495.09
+Intel Core i7-975 Extreme Edition,4,3.33 GHz,None,Nehalem,130 W,None,4.5,None
+AMD Athlon X4 970,4,3.8 GHz,4 GHz,Excavator,65 W,None,None,None
+Intel Core i5-8600,6,3.1 GHz,4.3 GHz,Coffee Lake,65 W,Intel UHD Graphics 630,None,$269.95
+Intel Xeon E-2104G,4,3.2 GHz,None,Coffee Lake,65 W,Intel HD Graphics P630,None,$352.79
+AMD A8-3850,4,2.9 GHz,None,Lynx,100 W,Radeon HD 6550D,4.0,None
+Intel Core i5-2550K,4,3.4 GHz,None,Sandy Bridge,95 W,None,None,None
+Intel Core i3-3210,2,3.2 GHz,None,Ivy Bridge,55 W,Intel HD Graphics 2500,None,$159.00
+Intel Core i5-4440S,4,2.8 GHz,3.3 GHz,Haswell,65 W,Intel HD Graphics 4600,None,None
+Intel Core i3-4160T,2,3.1 GHz,None,Haswell Refresh,35 W,Intel HD Graphics 4400,None,None
+Intel Xeon E5-1620,4,3.6 GHz,3.8 GHz,Sandy Bridge,130 W,None,5.0,None
+Intel Core i5-6600T,4,2.7 GHz,3.5 GHz,Skylake,35 W,Intel HD Graphics 530,None,$184.98
+AMD Opteron 6378,16,2.4 GHz,3.3 GHz,Piledriver,115 W,None,None,None
+Intel Core i3-8300,4,3.7 GHz,None,Coffee Lake,62 W,Intel UHD Graphics 630,None,None
+AMD EPYC 4484PX,12,4.4 GHz,5.6 GHz,Zen 4,120 W,Radeon,None,None
+Intel Xeon E-2176G,6,3.7 GHz,4.7 GHz,Coffee Lake,80 W,Intel HD Graphics P630,None,$583.29
+AMD Phenom II X2 555 Black,2,3.2 GHz,None,K10,80 W,None,5.0,$62.07
+Intel Xeon E5-2609 V4,8,1.7 GHz,None,Broadwell,85 W,None,None,$197.95
+Intel Core i7-965 Extreme Edition,4,3.2 GHz,None,Nehalem,130 W,None,None,None
+Intel Xeon E5-2687W,8,3.1 GHz,3.8 GHz,Sandy Bridge,150 W,None,None,None
+Intel Xeon E5-2643 V4,6,3.4 GHz,3.7 GHz,Broadwell,135 W,None,None,$929.95
+Intel Core i9-9920X,12,3.5 GHz,4.4 GHz,Skylake,165 W,None,None,None
+Intel Celeron E1200,2,1.6 GHz,None,Core,65 W,None,None,None
+Intel Pentium E2160,2,1.8 GHz,None,Core,65 W,None,None,$49.00
+AMD Phenom II X2 565 Black,2,3.4 GHz,None,K10,80 W,None,None,None
+AMD FX-6200,6,3.8 GHz,None,Bulldozer,125 W,None,4.5,None
+Intel Core i3-3225,2,3.3 GHz,None,Ivy Bridge,55 W,Intel HD Graphics 4000,4.5,$172.49
+Intel Xeon E3-1220 V2,4,3.1 GHz,None,Ivy Bridge,69 W,None,None,None
+Intel Xeon E5-2690,8,2.9 GHz,3.8 GHz,Sandy Bridge,135 W,None,None,None
+Intel Xeon E5-4650,8,2.7 GHz,3.3 GHz,Sandy Bridge,130 W,None,None,None
+Intel Core i3-4160,2,3.6 GHz,None,Haswell Refresh,54 W,Intel HD Graphics 4400,3.0,None
+Intel Core i3-4370,2,3.8 GHz,None,Haswell Refresh,54 W,Intel HD Graphics 4600,4.5,None
+Intel Xeon E5-1650,6,3.2 GHz,3.8 GHz,Sandy Bridge,130 W,None,4.0,None
+Intel Xeon E5-1680 V3,8,3.2 GHz,3.8 GHz,Haswell,140 W,None,5.0,None
+Intel Pentium G3250,2,3.2 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,4.5,None
+Intel Xeon E3-1230 V5,4,3.4 GHz,3.8 GHz,Skylake,80 W,None,5.0,None
+AMD Opteron 6320,8,2.8 GHz,3.3 GHz,Piledriver,115 W,None,None,$269.00
+Intel Xeon E5-2420V2,6,2.2 GHz,2.7 GHz,Ivy Bridge,80 W,None,None,None
+Intel Xeon E5-2650L V4,14,1.7 GHz,2.5 GHz,Broadwell,65 W,None,None,None
+Intel Pentium Gold G5600,2,3.9 GHz,None,Coffee Lake,54 W,Intel UHD Graphics 630,5.0,None
+AMD Athlon 200GE,2,3.2 GHz,None,Zen,35 W,Radeon Vega 3,None,None
+Intel Core i5-9400,6,2.9 GHz,4.1 GHz,Coffee Lake Refresh,65 W,Intel UHD Graphics 630,None,None
+Intel Core i5-9600T,6,2.3 GHz,3.9 GHz,Coffee Lake Refresh,35 W,Intel UHD Graphics 630,None,None
+AMD Phenom II X4 840,4,3.2 GHz,None,K10,95 W,None,None,None
+Intel Xeon E3-1240 V2,4,3.4 GHz,None,Ivy Bridge,69 W,None,4.0,$374.97
+AMD Athlon X4 750K,4,3.4 GHz,None,Piledriver,100 W,None,4.5,None
+Intel Xeon E5-1660 V2,6,3.7 GHz,4 GHz,Ivy Bridge,130 W,None,5.0,None
+Intel Xeon E5-2697 V3,14,2.6 GHz,3.6 GHz,Haswell,145 W,None,None,None
+Intel Core i3-3240,2,3.4 GHz,None,Ivy Bridge,55 W,Intel HD Graphics 2500,None,None
+Intel Core i7-4770T,4,2.5 GHz,None,Haswell,45 W,Intel HD Graphics 4600,None,None
+Intel Celeron G3900,2,2.8 GHz,None,Skylake,51 W,Intel HD Graphics 510,3.5,$52.63
+AMD Athlon X4 870K,4,3.9 GHz,4.1 GHz,Steamroller,95 W,None,4.0,None
+Intel Core i5-3330S,4,2.7 GHz,3.2 GHz,Ivy Bridge,65 W,Intel HD Graphics 2500,None,$149.94
+Intel Xeon E3-1275,4,3.4 GHz,None,Sandy Bridge,95 W,Intel HD Graphics,None,$376.99
+Intel Xeon E5-2630L V2,6,2.4 GHz,None,Ivy Bridge,60 W,None,None,None
+AMD A4-3300,2,2.5 GHz,None,Lynx,65 W,Radeon HD 6410D,None,$89.95
+AMD A4-4000,2,3 GHz,None,Piledriver,65 W,Radeon HD 7480D,4.0,None
+Intel Xeon E5-2660 V2,10,2.2 GHz,3 GHz,Ivy Bridge,95 W,None,None,None
+Intel Xeon E5-2623 V3,4,3 GHz,3.5 GHz,Haswell,105 W,None,5.0,$234.94
+Intel Xeon E3-1270 V6,4,3.8 GHz,4.2 GHz,Kaby Lake,72 W,None,None,$719.95
+AMD Athlon II X4 600e,4,2.2 GHz,None,K10,45 W,None,None,None
+AMD Phenom II X4 955 Black,4,3.2 GHz,None,K10,125 W,None,4.0,None
+Intel Core 2 Duo E8400,2,3 GHz,None,Wolfdale,65 W,None,4.0,None
+Intel Pentium G6950,2,2.8 GHz,None,Westmere,73 W,Intel HD Graphics,None,$37.93
+AMD Athlon II X4 620,4,2.6 GHz,None,K10,95 W,None,5.0,$53.55
+AMD FX-8120,8,3.1 GHz,None,Bulldozer,125 W,None,4.5,None
+Intel Xeon E3-1245 V3,4,3.4 GHz,3.8 GHz,Haswell,84 W,Intel HD Graphics P4600,5.0,None
+Intel Celeron G1840,2,2.8 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,4.5,None
+Intel Core i5-4690S,4,3.2 GHz,3.9 GHz,Haswell Refresh,65 W,Intel HD Graphics 4600,5.0,None
+Intel Xeon E5-2603 V3,6,1.6 GHz,None,Haswell,85 W,None,None,$99.00
+Intel Xeon E5-2643 V3,6,3.4 GHz,3.7 GHz,Haswell,135 W,None,None,$229.95
+Intel Xeon E5-2695 V3,14,2.3 GHz,3.3 GHz,Haswell,120 W,None,None,None
+Intel Xeon E3-1225 V5,4,3.3 GHz,3.7 GHz,Skylake,80 W,Intel HD Graphics P530,None,None
+Intel Xeon E3-1235L V5,4,2 GHz,3 GHz,Skylake,25 W,Intel HD Graphics P530,None,None
+Intel Pentium G4560,2,3.5 GHz,None,Kaby Lake,54 W,Intel HD Graphics 610,None,None
+Intel Core i5-7600T,4,2.8 GHz,3.7 GHz,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Xeon E3-1240 V6,4,3.7 GHz,4.1 GHz,Kaby Lake,72 W,None,None,None
+AMD Threadripper 2920X,12,3.5 GHz,4.3 GHz,Zen+,180 W,None,None,None
+Intel Core i9-9940X,14,3.3 GHz,4.4 GHz,Skylake,165 W,None,None,$998.95
+Intel Core i5-9600,6,3.1 GHz,4.6 GHz,Coffee Lake Refresh,65 W,Intel UHD Graphics 630,None,None
+AMD Ryzen 7 2700,8,3.2 GHz,4.1 GHz,Zen+,65 W,None,None,None
+Intel Xeon E-2144G,4,3.6 GHz,4.5 GHz,Coffee Lake,71 W,Intel HD Graphics P630,None,None
+Intel Xeon E-2136,6,3.3 GHz,4.5 GHz,Coffee Lake,80 W,None,None,None
+Intel Core i3-10325,4,3.9 GHz,4.7 GHz,Comet Lake,65 W,Intel UHD Graphics 630,None,None
+Intel Pentium G640T,2,2.4 GHz,None,Sandy Bridge,35 W,Intel HD Graphics,None,$89.00
+Intel Xeon E5-2665,8,2.4 GHz,3.1 GHz,Sandy Bridge,115 W,None,None,$149.94
+Intel Xeon E5-2670,8,2.6 GHz,3.3 GHz,Sandy Bridge,115 W,None,4.5,None
+Intel Core i3-6100T,2,3.2 GHz,None,Skylake,35 W,Intel HD Graphics 530,None,$149.94
+Intel Core 2 Duo E4300,2,1.8 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E7400,2,2.8 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core i7-940,4,2.93 GHz,None,Nehalem,130 W,None,4.0,$149.94
+Intel Core 2 Extreme QX9650,4,3 GHz,None,Yorkfield,130 W,None,None,None
+Intel Pentium G620,2,2.6 GHz,None,Sandy Bridge,65 W,Intel HD Graphics,4.5,None
+Intel Xeon E3-1265L V2,4,2.5 GHz,None,Ivy Bridge,45 W,Intel HD Graphics 2500,None,None
+Intel Pentium G3240,2,3.1 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,4.0,None
+AMD Phenom II X2 B59,2,3.4 GHz,None,K10,80 W,None,3.0,None
+Intel Xeon E5-2660 V3,10,2.6 GHz,3.3 GHz,Haswell,105 W,None,None,None
+Intel Core i7-3770T,4,2.5 GHz,3.7 GHz,Ivy Bridge,45 W,Intel HD Graphics 4000,None,None
+Intel Core i7-4790T,4,2.7 GHz,3.9 GHz,Haswell Refresh,45 W,None,None,$149.88
+Intel Xeon E3-1240 V5,4,3.5 GHz,3.9 GHz,Skylake,80 W,None,None,None
+Intel Core i5-3550S,4,3 GHz,3.7 GHz,Ivy Bridge,65 W,Intel HD Graphics 2500,None,None
+AMD Ryzen 7 1800X,8,3.6 GHz,4 GHz,Zen,95 W,None,5.0,None
+Intel Core i5-9400T,6,1.8 GHz,3.4 GHz,Coffee Lake Refresh,35 W,Intel UHD Graphics 630,None,None
+Intel Core i3-3220T,2,2.8 GHz,None,Ivy Bridge,35 W,Intel HD Graphics 2500,None,$129.00
+AMD Phenom II X4 975,4,3.6 GHz,None,K10,125 W,None,None,$168.02
+Intel Xeon E3-1241 V3,4,3.5 GHz,3.9 GHz,Haswell Refresh,80 W,None,4.5,$298.00
+Intel Pentium Gold G6500,2,4.1 GHz,None,Comet Lake,58 W,Intel UHD Graphics 630,None,None
+AMD Athlon II X2 250u,2,1.6 GHz,None,K10,25 W,None,None,None
+Intel Celeron E3400,2,2.6 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core i7-930,4,2.8 GHz,None,Nehalem,130 W,None,None,None
+Intel Core 2 Quad Q6700,4,2.66 GHz,None,Core,100 W,None,4.5,None
+Intel Core i7-970,6,3.2 GHz,None,Westmere,130 W,None,None,None
+AMD FX-8100,8,2.8 GHz,None,Bulldozer,95 W,None,None,None
+AMD Athlon II X4 651K,4,3 GHz,None,Lynx,100 W,None,None,None
+Intel Xeon E3-1275 V2,4,3.5 GHz,None,Ivy Bridge,77 W,Intel HD Graphics P4000,None,None
+AMD FX-9370,8,4.4 GHz,4.7 GHz,Piledriver,220 W,None,5.0,None
+AMD FX-9590,8,4.7 GHz,5 GHz,Piledriver,220 W,None,5.0,None
+AMD 3850,4,1.3 GHz,None,Jaguar,25 W,Radeon HD 8280,3.0,None
+AMD FX-4100,4,3.6 GHz,None,Bulldozer,95 W,None,None,None
+Intel Xeon E5-1630 V3,4,3.7 GHz,3.8 GHz,Haswell,140 W,None,5.0,None
+Intel Xeon E5-2640 V3,8,2.6 GHz,3.4 GHz,Haswell,90 W,None,None,$189.95
+Intel Xeon E3-1270 V5,4,3.6 GHz,4 GHz,Skylake,80 W,None,None,None
+Intel Pentium G3260,2,3.3 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,5.0,None
+AMD Athlon 5370,4,2.2 GHz,None,Jaguar,25 W,Radeon R3 (on die),None,None
+Intel Core i7-7820X,8,3.6 GHz,4.5 GHz,Skylake,140 W,None,None,None
+Intel Core i7-7800X,6,3.5 GHz,4 GHz,Skylake,140 W,None,None,None
+Intel Xeon E5-2450V2,8,2.5 GHz,3.3 GHz,Ivy Bridge,95 W,None,None,None
+Intel Core i3-9350K,4,4 GHz,4.6 GHz,Coffee Lake Refresh,91 W,Intel HD Graphics 630,None,None
+Intel Xeon E-2176G,6,3.7 GHz,4.7 GHz,Coffee Lake,80 W,Intel HD Graphics P630,None,None
+Intel Xeon E-2136,6,3.3 GHz,4.5 GHz,Coffee Lake,80 W,None,None,$776.77
+Intel Xeon E-2174G,4,3.8 GHz,4.7 GHz,Coffee Lake,71 W,Intel HD Graphics P630,None,$655.27
+Intel Xeon E-2246G,6,3.6 GHz,4.8 GHz,Coffee Lake Refresh,80 W,Intel HD Graphics P630,None,None
+Intel Core i3-2125,2,3.3 GHz,None,Sandy Bridge,65 W,Intel HD Graphics 3000,None,$152.00
+Intel Core 2 Duo E6550,2,2.33 GHz,None,Core,65 W,None,None,$95.91
+Intel Core i5-3450S,4,2.8 GHz,None,Ivy Bridge,65 W,Intel HD Graphics 2500,5.0,$85.00
+Intel Xeon E5-2695 V3,14,2.3 GHz,3.3 GHz,Haswell,120 W,None,None,$498.95
+Intel Pentium E6600,2,3.06 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E8500,2,3.16 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core i5-661,2,3.33 GHz,None,Westmere,87 W,Intel HD Graphics,None,$80.00
+Intel Core 2 Quad Q9550S,4,2.83 GHz,None,Yorkfield,65 W,None,None,None
+AMD A6-3670K,4,2.7 GHz,None,Lynx,100 W,Radeon HD 6530D,None,None
+Intel Xeon E3-1270,4,3.4 GHz,None,Sandy Bridge,80 W,None,None,None
+Intel Xeon E3-1245 V2,4,3.4 GHz,None,Ivy Bridge,77 W,Intel HD Graphics P4000,4.0,$315.00
+Intel Celeron G1620,2,2.7 GHz,None,Ivy Bridge,55 W,Intel HD Graphics,5.0,None
+Intel Celeron G1820,2,2.7 GHz,None,Haswell,53 W,Intel HD Graphics,5.0,None
+Intel Xeon E3-1226 V3,4,3.3 GHz,3.7 GHz,Haswell Refresh,84 W,Intel HD Graphics P4600,None,None
+Intel Xeon E5-2670,8,2.6 GHz,3.3 GHz,Sandy Bridge,115 W,None,None,None
+AMD A8-7600,4,3.1 GHz,3.8 GHz,Steamroller,65 W,Radeon R7 (on-die),None,None
+AMD Athlon X4 860K,4,3.7 GHz,4 GHz,Steamroller,95 W,None,5.0,None
+AMD FX-8370,8,4 GHz,4.3 GHz,Piledriver,125 W,None,None,None
+AMD Pro A8-7600B,4,3.1 GHz,3.8 GHz,Steamroller,65 W,Radeon R7 (on-die),None,None
+Intel Xeon E5-1650 V4,6,3.6 GHz,4 GHz,Broadwell,140 W,None,None,None
+Intel Core i3-7300,2,4 GHz,None,Kaby Lake,51 W,Intel HD Graphics 630,4.0,None
+Intel Xeon E3-1270 V6,4,3.8 GHz,4.2 GHz,Kaby Lake,72 W,None,None,None
+Intel Pentium Gold G5400,2,3.7 GHz,None,Coffee Lake,58 W,Intel UHD Graphics 610,4.0,None
+Intel Core i5-9500F,6,3 GHz,4.4 GHz,Coffee Lake Refresh,65 W,None,None,None
+Intel Core i5-9400,6,2.9 GHz,4.1 GHz,Coffee Lake Refresh,65 W,Intel UHD Graphics 630,None,None
+Intel Xeon E-2276G,6,3.8 GHz,4.9 GHz,Coffee Lake Refresh,80 W,Intel HD Graphics P630,4.0,None
+Intel Core 2 Duo E8400,2,3 GHz,None,Wolfdale,65 W,None,5.0,$98.95
+Intel Pentium G840,2,2.8 GHz,None,Sandy Bridge,65 W,Intel HD Graphics,None,$514.55
+Intel Core i7-860,4,2.8 GHz,None,Nehalem,95 W,None,4.0,$189.95
+AMD A4-3400,2,2.7 GHz,None,Lynx,65 W,Radeon HD 6410D,None,$134.09
+Intel Core i3-6300T,2,3.3 GHz,None,Skylake,35 W,Intel HD Graphics 530,None,$139.99
+AMD Athlon II X2 235e,2,2.7 GHz,None,K10,45 W,None,3.0,None
+AMD Athlon II X2 240e,2,2.8 GHz,None,K10,45 W,None,None,None
+Intel Pentium E2220,2,2.4 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E4300,2,1.8 GHz,None,Core,65 W,None,None,$75.00
+Intel Pentium E5200,2,2.5 GHz,None,Wolfdale,65 W,None,4.0,None
+Intel Core i7-880,4,3.06 GHz,None,Nehalem,95 W,None,None,None
+Intel Core 2 Quad Q8300,4,2.5 GHz,None,Yorkfield,95 W,None,None,None
+Intel Core 2 Quad Q9550S,4,2.83 GHz,None,Yorkfield,65 W,None,4.0,None
+Intel Core 2 Extreme QX6850,4,3 GHz,None,Core,130 W,None,None,None
+Intel Core 2 Extreme X6800,2,2.93 GHz,None,Core,75 W,None,None,None
+AMD Phenom II X6 1075T,6,3 GHz,None,K10,95 W,None,4.5,None
+AMD Phenom II X6 1035T,6,2.6 GHz,None,K10,95 W,None,5.0,None
+Intel Pentium G850,2,2.9 GHz,None,Sandy Bridge,65 W,Intel HD Graphics,5.0,None
+Intel Celeron G530,2,2.4 GHz,None,Sandy Bridge,65 W,Intel HD Graphics,4.0,$41.86
+AMD Phenom II X4 970,4,3.5 GHz,None,K10,125 W,None,None,None
+AMD A6-5400K,2,3.6 GHz,None,Piledriver,65 W,Radeon HD 7540D,4.0,None
+Intel Xeon E3-1225 V2,4,3.2 GHz,None,Ivy Bridge,77 W,Intel HD Graphics P4000,None,$214.50
+AMD FX-4130,4,3.8 GHz,None,Bulldozer,125 W,None,4.0,None
+AMD Athlon X4 740,4,3.2 GHz,None,Piledriver,65 W,None,4.0,None
+Intel Xeon E3-1275 V3,4,3.5 GHz,3.9 GHz,Haswell,84 W,Intel HD Graphics P4600,None,None
+Intel Core i5-3340S,4,2.8 GHz,3.3 GHz,Ivy Bridge,65 W,Intel HD Graphics 2500,None,None
+Intel Xeon E5-2603,4,1.8 GHz,None,Sandy Bridge,80 W,None,None,$98.95
+Intel Core i3-6320,2,3.9 GHz,None,Skylake,51 W,Intel HD Graphics 530,5.0,None
+Intel Core i5-6400T,4,2.2 GHz,2.8 GHz,Skylake,35 W,Intel HD Graphics 530,None,None
+Intel Xeon E3-1240 V5,4,3.5 GHz,3.9 GHz,Skylake,80 W,None,None,None
+AMD Opteron 6344,12,2.6 GHz,3.2 GHz,Piledriver,115 W,None,None,None
+Intel Celeron G3950,2,3 GHz,None,Kaby Lake,51 W,Intel HD Graphics 610,None,None
+Intel Core i5-7600T,4,2.8 GHz,3.7 GHz,Kaby Lake,35 W,Intel HD Graphics 630,None,$229.95
+Intel Core i7-7700T,4,2.9 GHz,3.8 GHz,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Xeon E3-1280 V6,4,3.9 GHz,4.2 GHz,Kaby Lake,72 W,None,None,$562.00
+Intel Core i3-8350K,4,4 GHz,None,Coffee Lake,91 W,Intel UHD Graphics 630,5.0,None
+Intel Core i7-9800X,8,3.8 GHz,4.5 GHz,Skylake,165 W,None,None,None
+Intel Xeon E-2124G,4,3.4 GHz,4.5 GHz,Coffee Lake,71 W,Intel HD Graphics P630,None,None
+AMD Pro A10-7850B,4,3.7 GHz,4 GHz,Steamroller,95 W,Radeon R7 (on-die),None,$152.77
+Intel Xeon E3-1230 V2,4,3.3 GHz,None,Ivy Bridge,69 W,None,None,$189.95
+Intel Xeon E3-1225 V6,4,3.3 GHz,3.7 GHz,Kaby Lake,73 W,Intel HD Graphics P630,None,$369.51
+Intel Core 2 Duo E6320,2,1.86 GHz,None,Core,65 W,None,None,$89.95
+Intel Core i5-670,2,3.46 GHz,None,Westmere,73 W,Intel HD Graphics,None,$109.08
+Intel Core i3-4350,2,3.6 GHz,None,Haswell Refresh,54 W,Intel HD Graphics 4600,5.0,None
+Intel Xeon E5-2637 V3,4,3.5 GHz,3.7 GHz,Haswell,135 W,None,None,None
+Intel Xeon E3-1240 V6,4,3.7 GHz,4.1 GHz,Kaby Lake,72 W,None,None,$429.95
+Intel Xeon E3-1230 V6,4,3.5 GHz,3.9 GHz,Kaby Lake,72 W,None,None,$455.49
+Intel Xeon E3-1285 V6,4,4.1 GHz,4.5 GHz,Kaby Lake,79 W,Intel HD Graphics 630,None,$989.95
+Intel Core i9-7920X,12,2.9 GHz,4.4 GHz,Skylake,140 W,None,None,None
+Intel Core i3-3240T,2,2.9 GHz,None,Ivy Bridge,35 W,Intel HD Graphics 2500,None,None
+AMD Athlon II X2 250,2,3 GHz,None,K10,65 W,None,None,None
+AMD Athlon II X2 260,2,3.2 GHz,None,K10,65 W,None,None,None
+AMD Phenom II X6 1055T,6,2.8 GHz,None,K10,125 W,None,None,$199.99
+AMD Phenom II X4 910e,4,2.6 GHz,None,K10,65 W,None,None,None
+Intel Pentium E2180,2,2 GHz,None,Core,65 W,None,None,None
+Intel Pentium E2200,2,2.2 GHz,None,Core,65 W,None,None,None
+Intel Pentium E6300,2,2.8 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E6420,2,2.13 GHz,None,Core,65 W,None,None,$69.95
+Intel Pentium E6500,2,2.93 GHz,None,Wolfdale,65 W,None,None,$149.27
+Intel Core 2 Duo E6750,2,2.66 GHz,None,Core,65 W,None,None,$89.95
+Intel Core 2 Quad Q9400,4,2.66 GHz,None,Yorkfield,95 W,None,None,None
+AMD Athlon II X4 645,4,3.1 GHz,None,K10,95 W,None,4.0,None
+Intel Pentium E5500,2,2.8 GHz,None,Wolfdale,65 W,None,None,None
+Intel Pentium E6800,2,3.333 GHz,None,Wolfdale,65 W,None,None,None
+AMD Phenom II X3 720 Black,3,2.8 GHz,None,K10,95 W,None,5.0,None
+AMD Athlon II X3 460,3,3.4 GHz,None,K10,95 W,None,None,None
+AMD A6-3500,3,2.1 GHz,None,Lynx,65 W,Radeon HD 6530D,3.0,None
+Intel Core i5-2380P,4,3.1 GHz,None,Sandy Bridge,95 W,None,None,None
+Intel Xeon E5-2609,4,2.4 GHz,None,Sandy Bridge,80 W,None,None,$89.95
+Intel Core i3-3245,2,3.4 GHz,None,Ivy Bridge,55 W,Intel HD Graphics 4000,5.0,$109.00
+AMD A6-6420K,2,4 GHz,4.2 GHz,Piledriver,65 W,Radeon HD 8000 Series,5.0,None
+AMD A10-7800,4,3.5 GHz,3.9 GHz,Steamroller,65 W,Radeon R7 (on-die),None,None
+Intel Celeron G470,1,2 GHz,None,Sandy Bridge,35 W,Intel HD Graphics,None,None
+AMD FX-8120,8,3.1 GHz,None,Bulldozer,125 W,None,None,None
+Intel Xeon E3-1246 V3,4,3.5 GHz,3.9 GHz,Haswell Refresh,84 W,Intel HD Graphics P4600,5.0,None
+Intel Core i7-5960X,8,3 GHz,3.5 GHz,Haswell,140 W,None,None,None
+Intel Xeon E5-1650 V3,6,3.5 GHz,3.8 GHz,Haswell,140 W,None,None,None
+AMD FX-8310,8,3.4 GHz,4.3 GHz,Piledriver,95 W,None,4.0,None
+Intel Core i5-4670S,4,3.1 GHz,3.8 GHz,Haswell,65 W,Intel HD Graphics 4600,5.0,None
+Intel Core i5-5675C,4,3.1 GHz,3.6 GHz,Broadwell,65 W,Iris Pro Graphics 6200,None,None
+Intel Pentium G4500,2,3.5 GHz,None,Skylake,51 W,Intel HD Graphics 530,4.5,None
+Intel Pentium G4400,2,3.3 GHz,None,Skylake,54 W,Intel HD Graphics 510,None,None
+Intel Xeon E3-1280 V5,4,3.7 GHz,4 GHz,Skylake,80 W,None,None,None
+Intel Core i7-6900K,8,3.2 GHz,3.7 GHz,Broadwell,140 W,None,None,$289.08
+AMD Athlon X4 940,4,3.2 GHz,3.6 GHz,Excavator,65 W,None,None,None
+Intel Pentium Gold G5500,2,3.8 GHz,None,Coffee Lake,54 W,Intel UHD Graphics 630,None,None
+Intel Xeon E-2134,4,3.5 GHz,4.5 GHz,Coffee Lake,71 W,None,None,None
+Intel Xeon E-2146G,6,3.5 GHz,4.5 GHz,Coffee Lake,80 W,Intel HD Graphics P630,None,None
+Intel Celeron G540,2,2.5 GHz,None,Sandy Bridge,65 W,Intel HD Graphics,4.0,$69.98
+Intel Core 2 Duo E7600,2,3.06 GHz,None,Wolfdale,65 W,None,None,$98.95
+Intel Core i3-560,2,3.333 GHz,None,Westmere,73 W,Intel HD Graphics,4.0,$89.95
+AMD Athlon II X2 220,2,2.8 GHz,None,K10,65 W,None,3.0,None
+AMD Phenom II X4 945,4,3 GHz,None,K10,125 W,None,4.0,None
+AMD Phenom II X4 940 Black,4,3 GHz,None,K10,125 W,None,None,None
+Intel Core 2 Duo E6400,2,2.13 GHz,None,Core,65 W,None,None,$74.90
+Intel Core 2 Duo E6400,2,2.13 GHz,None,Core,65 W,None,4.0,$89.95
+Intel Pentium E6600,2,3.06 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E7200,2,2.53 GHz,None,Wolfdale,65 W,None,None,$169.95
+Intel Core 2 Duo E8300,2,2.83 GHz,None,Wolfdale,65 W,None,None,$99.95
+Intel Core 2 Duo E8500,2,3.16 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E8600,2,3.33 GHz,None,Wolfdale,65 W,None,4.5,None
+Intel Core i5-750,4,2.66 GHz,None,Nehalem,95 W,None,None,$398.00
+AMD Phenom II X2 545,2,3 GHz,None,K10,80 W,None,5.0,None
+AMD Phenom II X2 560 Black,2,3.3 GHz,None,K10,80 W,None,None,None
+AMD Sempron 145,1,2.8 GHz,None,K10,45 W,None,4.0,None
+Intel Celeron E3500,2,2.7 GHz,None,Wolfdale,65 W,None,None,None
+AMD Phenom II X4 975,4,3.6 GHz,None,K10,125 W,None,5.0,None
+AMD Phenom II X4 965,4,3.4 GHz,None,K10,125 W,None,4.0,None
+AMD A6-3650,4,2.6 GHz,None,Lynx,100 W,Radeon HD 6530D,4.0,None
+Intel Core i3-2105,2,3.1 GHz,None,Sandy Bridge,65 W,Intel HD Graphics 3000,None,None
+Intel Core i5-2405S,4,2.5 GHz,None,Sandy Bridge,65 W,Intel HD Graphics 3000,None,None
+Intel Core i5-2450P,4,3.2 GHz,None,Sandy Bridge,95 W,None,None,None
+AMD A10-5700,4,3.4 GHz,None,Piledriver,65 W,Radeon HD 7660D,5.0,None
+Intel Xeon E3-1220,4,3.1 GHz,None,Sandy Bridge,80 W,None,None,None
+Intel Xeon E3-1280,4,3.5 GHz,None,Sandy Bridge,95 W,None,None,None
+AMD A10-6790K,4,4 GHz,4.3 GHz,Piledriver,100 W,Radeon HD 8670D,4.5,None
+Intel Xeon E5-2620,6,2 GHz,None,Sandy Bridge,95 W,None,None,$77.00
+AMD A10-6700T,4,2.5 GHz,3.5 GHz,Piledriver,45 W,Radeon HD 8650D,None,None
+AMD A10-7700K,4,3.4 GHz,3.8 GHz,Steamroller,95 W,Radeon R7 (on-die),None,None
+Intel Core i3-4360T,2,3.2 GHz,None,Haswell Refresh,35 W,Intel HD Graphics 4600,None,None
+Intel Xeon E5-2690,8,2.9 GHz,3.8 GHz,Sandy Bridge,135 W,None,5.0,None
+Intel Xeon E5-2637 V2,4,3.5 GHz,3.8 GHz,Ivy Bridge,130 W,None,None,None
+AMD Pro A4-7300B,2,3.8 GHz,4 GHz,Piledriver,65 W,Radeon HD 8470D,None,None
+AMD Athlon X4 840,4,3.1 GHz,3.8 GHz,Steamroller,65 W,None,None,None
+Intel Xeon E5-2620 V3,6,2.4 GHz,3.2 GHz,Haswell,85 W,None,None,$149.94
+Intel Xeon E5-2630 V3,8,2.4 GHz,3.2 GHz,Haswell,85 W,None,None,$459.00
+Intel Xeon E3-1270 V3,4,3.5 GHz,3.9 GHz,Haswell,80 W,None,None,None
+AMD A4-7300,2,3.8 GHz,4 GHz,Piledriver,65 W,Radeon HD 8470D,None,None
+Intel Pentium G4520,2,3.6 GHz,None,Skylake,51 W,Intel HD Graphics 530,4.5,None
+Intel Core i7-6700T,4,2.8 GHz,3.6 GHz,Skylake,35 W,Intel HD Graphics 530,None,None
+Intel Xeon E3-1260L V5,4,2.9 GHz,3.9 GHz,Skylake,45 W,None,None,None
+AMD Opteron 6320,8,2.8 GHz,3.3 GHz,Piledriver,115 W,None,None,$242.39
+Intel Xeon E5-2603 V4,6,1.7 GHz,None,Broadwell,85 W,None,None,$449.95
+Intel Core i3-7300T,2,3.5 GHz,None,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Core i9-7900X,10,3.3 GHz,4.5 GHz,Skylake,140 W,None,None,None
+Intel Xeon E5-2440V2,8,1.9 GHz,2.4 GHz,Ivy Bridge,95 W,None,None,None
+AMD Athlon X4 970,4,3.8 GHz,4 GHz,Excavator,65 W,None,None,None
+Intel Core i3-8300T,4,3.2 GHz,None,Coffee Lake,35 W,Intel UHD Graphics 630,None,None
+Intel Celeron G4900T,2,1.8 GHz,None,Coffee Lake,35 W,Intel UHD Graphics 610,None,None
+Intel Pentium Gold G5500T,2,3.2 GHz,None,Coffee Lake,35 W,Intel UHD Graphics 630,None,None
+Intel Xeon E5-2660,8,2.2 GHz,3 GHz,Sandy Bridge,95 W,None,None,None
+AMD Athlon 240GE,2,3.5 GHz,None,Zen,35 W,Radeon Vega 3,None,None
+AMD A6-7480,2,3.5 GHz,3.8 GHz,Puma+,65 W,Radeon R5 (on die),None,None
+Intel Xeon E-2146G,6,3.5 GHz,4.5 GHz,Coffee Lake,80 W,Intel HD Graphics P630,None,None
+Intel Celeron G5925,2,3.6 GHz,None,Comet Lake,58 W,Intel UHD Graphics 610,None,None
+Intel Core i5-4670T,4,2.3 GHz,None,Haswell,45 W,Intel HD Graphics 4600,None,None
+Intel Pentium G870,2,3.1 GHz,None,Sandy Bridge,65 W,Intel HD Graphics,None,$67.64
+Intel Pentium G4620,2,3.7 GHz,None,Kaby Lake,51 W,Intel HD Graphics 630,None,$224.12
+Intel Xeon E3-1275 V6,4,3.8 GHz,4.2 GHz,Kaby Lake,73 W,Intel HD Graphics P630,None,$498.95
+Intel Pentium Gold G5500,2,3.8 GHz,None,Coffee Lake,54 W,Intel UHD Graphics 630,None,None
+Intel Xeon E5-2620,6,2 GHz,None,Sandy Bridge,95 W,None,None,$139.94
+Intel Xeon E-2124G,4,3.4 GHz,4.5 GHz,Coffee Lake,71 W,Intel HD Graphics P630,None,Out of stock$270.99
+Intel Celeron G5920,2,3.5 GHz,None,Comet Lake,58 W,Intel UHD Graphics 610,None,None
+AMD Athlon II X2 215,2,2.7 GHz,None,K10,65 W,None,None,None
+AMD Phenom II X4 810,4,2.6 GHz,None,K10,95 W,None,5.0,None
+AMD Phenom II X4 955 Black,4,3.2 GHz,None,K10,125 W,None,4.5,None
+AMD Phenom II X4 965 Black (140W),4,3.4 GHz,None,K10,140 W,None,None,None
+Intel Pentium E2140,2,1.6 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E4400,2,2 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E4500,2,2.2 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E4600,2,2.4 GHz,None,Core,65 W,None,None,$98.95
+Intel Pentium E5300,2,2.6 GHz,None,Wolfdale,65 W,None,None,$79.40
+Intel Core 2 Duo E7500,2,2.93 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E8200,2,2.66 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core i5-660,2,3.33 GHz,None,Westmere,73 W,Intel HD Graphics,None,$149.94
+Intel Core i7-920,4,2.66 GHz,None,Nehalem,130 W,None,3.0,None
+AMD Athlon II X3 450,3,3.2 GHz,None,K10,95 W,None,4.5,None
+AMD Phenom II X4 830,4,2.8 GHz,None,K10,95 W,None,3.5,$55.05
+AMD Athlon II X2 270,2,3.4 GHz,None,K10,65 W,None,4.0,None
+AMD Phenom II X4 960T Black,4,3 GHz,None,K10,95 W,None,4.5,None
+AMD Phenom II X6 1045T,6,2.7 GHz,None,K10,95 W,None,4.0,None
+AMD FX-4170,4,4.2 GHz,None,Bulldozer,125 W,None,4.5,None
+Intel Celeron G465,2,1.9 GHz,None,Sandy Bridge,35 W,Intel HD Graphics,None,None
+Intel Xeon E3-1245,4,3.3 GHz,None,Sandy Bridge,95 W,Intel HD Graphics,5.0,None
+Intel Pentium G2010,2,2.8 GHz,None,Ivy Bridge,55 W,Intel HD Graphics,None,None
+Intel Xeon E5-2660,8,2.2 GHz,3 GHz,Sandy Bridge,95 W,None,None,None
+Intel Xeon E5-2603 V2,4,1.8 GHz,None,Ivy Bridge,80 W,None,None,None
+Intel Xeon E5-2620 V2,6,2.1 GHz,2.6 GHz,Ivy Bridge,80 W,None,None,None
+AMD FX-4130,4,3.8 GHz,None,Bulldozer,125 W,None,4.0,None
+Intel Core i3-4360,2,3.7 GHz,None,Haswell Refresh,54 W,Intel HD Graphics 4600,4.5,None
+Intel Pentium G3450,2,3.4 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,5.0,None
+AMD Sempron 145,1,2.8 GHz,None,K10,45 W,None,None,None
+AMD Sempron 150,1,2.9 GHz,None,K10,45 W,None,None,None
+AMD A10-6800K,4,4.1 GHz,None,Piledriver,100 W,Radeon HD 8670D,None,None
+AMD A10-6800B,4,4.1 GHz,4.4 GHz,Piledriver,100 W,Radeon HD 8670D,None,None
+AMD A4-6320,2,3.8 GHz,4 GHz,Piledriver,65 W,Radeon HD 8370D,5.0,None
+Intel Core i3-4370,2,3.8 GHz,None,Haswell Refresh,54 W,Intel HD Graphics 4600,None,None
+Intel Xeon E3-1276 V3,4,3.6 GHz,4 GHz,Haswell Refresh,84 W,Intel HD Graphics P4600,None,None
+Intel Xeon E5-2687W,8,3.1 GHz,3.8 GHz,Sandy Bridge,150 W,None,None,None
+Intel Xeon E5-1660 V2,6,3.7 GHz,4 GHz,Ivy Bridge,130 W,None,None,None
+AMD FX-8320E,8,3.2 GHz,4 GHz,Piledriver,95 W,None,None,None
+Intel Xeon E5-1620 V3,4,3.5 GHz,3.6 GHz,Haswell,140 W,None,None,None
+Intel Pentium G3250,2,3.2 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,None,None
+Intel Pentium G3460,2,3.5 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,None,$125.00
+Intel Xeon E5-2650 V3,10,2.3 GHz,3 GHz,Haswell,105 W,None,None,None
+Intel Xeon E5-2670 V3,12,2.3 GHz,3.1 GHz,Haswell,120 W,None,None,None
+Intel Core i5-4570S,4,2.9 GHz,None,Haswell,65 W,Intel HD Graphics 4600,None,None
+Intel Xeon E3-1275 V5,4,3.6 GHz,4 GHz,Skylake,80 W,Intel HD Graphics P530,None,None
+AMD Opteron 6328,8,3.2 GHz,3.8 GHz,Piledriver,115 W,None,None,None
+AMD A6-7470K,2,3.7 GHz,4 GHz,Steamroller,65 W,Radeon R5 (on die),5.0,None
+AMD A10-7890K,4,4.1 GHz,4.3 GHz,Steamroller,95 W,Radeon R7 (on-die),None,None
+Intel Core i7-6850K,6,3.6 GHz,3.8 GHz,Broadwell,140 W,None,None,None
+Intel Pentium G4620,2,3.7 GHz,None,Kaby Lake,51 W,Intel HD Graphics 630,4.5,None
+Intel Pentium G4600,2,3.6 GHz,None,Kaby Lake,51 W,Intel HD Graphics 630,None,$169.95
+Intel Core i5-7500T,4,2.7 GHz,3.3 GHz,Kaby Lake,35 W,Intel HD Graphics 630,None,$199.95
+Intel Core i5-7640X,4,4 GHz,4.2 GHz,Kaby Lake,112 W,None,None,None
+Intel Core i5-7640X,4,4 GHz,4.2 GHz,Kaby Lake,112 W,None,None,$217.40
+AMD A8-7670K,4,3.6 GHz,3.9 GHz,Steamroller,95 W,Radeon R7 (on-die),None,None
+Intel Xeon E5-2430V2,6,2.5 GHz,3 GHz,Ivy Bridge,80 W,None,5.0,None
+Intel Core i9-7960X,16,2.8 GHz,4.4 GHz,Skylake,165 W,None,None,None
+Intel Core i3-8300,4,3.7 GHz,None,Coffee Lake,62 W,Intel UHD Graphics 630,None,None
+AMD Athlon 220GE,2,3.4 GHz,None,Zen,35 W,Radeon Vega 3,None,None
+AMD Athlon 240GE,2,3.5 GHz,None,Zen,35 W,Radeon Vega 3,5.0,None
+Intel Core i5-9500F,6,3 GHz,4.4 GHz,Coffee Lake Refresh,65 W,None,None,None
+Intel Core i3-9300,4,3.7 GHz,4.3 GHz,Coffee Lake Refresh,62 W,Intel UHD Graphics 630,None,None
+Intel Xeon E-2236,6,3.4 GHz,4.8 GHz,Coffee Lake Refresh,80 W,None,None,None
+Intel Xeon E-2274G,4,4 GHz,4.9 GHz,Coffee Lake Refresh,83 W,Intel HD Graphics P630,None,None
+Intel Celeron G5905T,2,3.3 GHz,None,Comet Lake,35 W,Intel UHD Graphics 610,None,None
+Intel Pentium Gold G6600,2,4.2 GHz,None,Comet Lake,58 W,Intel UHD Graphics 630,None,None
+Intel Celeron G3950,2,3 GHz,None,Kaby Lake,51 W,Intel HD Graphics 610,None,$59.99
+Intel Xeon E3-1220 V6,4,3 GHz,3.5 GHz,Kaby Lake,72 W,None,None,$398.95
+AMD Athlon II X2 240,2,2.8 GHz,None,K10,65 W,None,5.0,None
+AMD Athlon II X2 255,2,3.1 GHz,None,K10,65 W,None,None,None
+Intel Celeron 450,1,2.2 GHz,None,Core,35 W,None,None,None
+AMD Athlon II X4 620,4,2.6 GHz,None,K10,95 W,None,3.5,None
+AMD Phenom II X4 910,4,2.6 GHz,None,K10,95 W,None,4.0,None
+AMD Phenom II X4 920,4,2.8 GHz,None,K10,125 W,None,None,None
+AMD Phenom II X4 925,4,2.8 GHz,None,K10,95 W,None,5.0,None
+AMD Athlon II X4 605e,4,2.3 GHz,None,K10,45 W,None,None,None
+Intel Pentium E2160,2,1.8 GHz,None,Core,65 W,None,None,None
+Intel Pentium E2160,2,1.8 GHz,None,Core,65 W,None,None,None
+Intel Pentium E2180,2,2 GHz,None,Core,65 W,None,None,None
+Intel Celeron E3300,2,2.5 GHz,None,Wolfdale,65 W,None,None,$61.79
+Intel Core 2 Duo E4600,2,2.4 GHz,None,Core,65 W,None,4.0,None
+Intel Pentium E5300,2,2.6 GHz,None,Wolfdale,65 W,None,None,$79.40
+Intel Core 2 Duo E6420,2,2.13 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E6550,2,2.33 GHz,None,Core,65 W,None,5.0,None
+Intel Core 2 Duo E6700,2,2.66 GHz,None,Core,65 W,None,None,$103.95
+Intel Core 2 Duo E6850,2,3 GHz,None,Core,65 W,None,None,$89.95
+Intel Core 2 Duo E7300,2,2.66 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E8400,2,3 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core i5-680,2,3.6 GHz,None,Westmere,73 W,Intel HD Graphics,None,None
+Intel Core 2 Quad Q6700,4,2.66 GHz,None,Core,100 W,None,None,None
+Intel Core 2 Quad Q8300,4,2.5 GHz,None,Yorkfield,95 W,None,None,None
+Intel Core 2 Quad Q9550,4,2.83 GHz,None,Yorkfield,95 W,None,4.5,None
+Intel Core 2 Quad Q9650,4,3 GHz,None,Yorkfield,95 W,None,None,None
+Intel Core 2 Extreme QX6700,4,2.66 GHz,None,Core,100 W,None,4.0,None
+AMD Athlon II X4 630,4,2.8 GHz,None,K10,95 W,None,None,None
+AMD Athlon II X4 610e,4,2.4 GHz,None,K10,45 W,None,None,None
+AMD Athlon II X4 630,4,2.8 GHz,None,K10,95 W,None,None,None
+Intel Pentium G620T,2,2.2 GHz,None,Sandy Bridge,35 W,Intel HD Graphics,None,None
+AMD Athlon II X4 631,4,2.6 GHz,None,Lynx,100 W,None,None,None
+AMD A4-3400,2,2.7 GHz,None,Lynx,65 W,Radeon HD 6410D,None,None
+Intel Pentium G860,2,3 GHz,None,Sandy Bridge,65 W,Intel HD Graphics,4.5,None
+AMD A8-3850,4,2.9 GHz,None,Lynx,100 W,Radeon HD 6550D,None,None
+AMD A6-3650,4,2.6 GHz,None,Lynx,100 W,Radeon HD 6530D,None,None
+AMD Athlon II X2 250,2,3 GHz,None,K10,65 W,None,None,None
+AMD Athlon II X4 641,4,2.8 GHz,None,Lynx,100 W,None,None,None
+Intel Xeon E3-1225,4,3.1 GHz,None,Sandy Bridge,95 W,Intel HD Graphics,None,None
+Intel Xeon E3-1235,4,3.2 GHz,None,Sandy Bridge,95 W,Intel HD Graphics,None,None
+Intel Core i3-4330,2,3.5 GHz,None,Haswell,54 W,Intel HD Graphics 4600,4.5,None
+Intel Celeron G1630,2,2.8 GHz,None,Ivy Bridge,55 W,Intel HD Graphics,None,None
+Intel Pentium G2140,2,3.3 GHz,None,Ivy Bridge,55 W,Intel HD Graphics,None,None
+AMD FX-9370,8,4.4 GHz,4.7 GHz,Piledriver,220 W,None,None,None
+Intel Xeon E5-1660,6,3.3 GHz,3.9 GHz,Sandy Bridge,130 W,None,5.0,None
+Intel Xeon E5-2640 V2,8,2 GHz,2.5 GHz,Ivy Bridge,95 W,None,None,None
+AMD 5350,4,2.05 GHz,None,Jaguar,25 W,Radeon HD 8400,None,None
+Intel Pentium G3440,2,3.3 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,None,None
+AMD Sempron X2 190,2,2.5 GHz,None,K10,45 W,None,None,None
+AMD A10-7850K,4,3.7 GHz,4 GHz,Steamroller,95 W,Radeon R7 (on-die),None,None
+AMD A4-6300,2,3.7 GHz,3.9 GHz,Piledriver,65 W,Radeon HD 8370D,None,None
+AMD A4-5300,2,3.4 GHz,None,Piledriver,65 W,Radeon HD 7480D,None,None
+AMD A4-4000,2,3 GHz,None,Piledriver,65 W,Radeon HD 7480D,None,None
+AMD A4-3420,2,2.8 GHz,None,Lynx,65 W,Radeon HD 6410D,None,None
+AMD FX-6350,6,3.9 GHz,None,Piledriver,125 W,None,None,None
+AMD Athlon II X4 651,4,3 GHz,None,Lynx,100 W,None,4.0,None
+AMD Athlon X4 550,4,2.2 GHz,None,Jaguar,25 W,None,None,None
+AMD Pro A10-7800B,4,3.5 GHz,3.9 GHz,Steamroller,65 W,Radeon R7 (on-die),None,None
+AMD Athlon X2 450,2,3.5 GHz,3.9 GHz,Steamroller,65 W,None,None,None
+Intel Pentium G3250T,2,2.8 GHz,None,Haswell Refresh,35 W,Intel HD Graphics,None,None
+Intel Pentium G3460,2,3.5 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,None,None
+Intel Xeon E5-2609 V3,6,1.9 GHz,None,Haswell,85 W,None,None,None
+Intel Xeon E5-2603 V3,6,1.6 GHz,None,Haswell,85 W,None,None,None
+Intel Xeon E5-2687W V3,10,3.1 GHz,3.5 GHz,Haswell,160 W,None,None,None
+Intel Xeon E5-2680 V3,12,2.5 GHz,3.3 GHz,Haswell,120 W,None,None,None
+Intel Xeon E3-1245 V3,4,3.4 GHz,3.8 GHz,Haswell,84 W,Intel HD Graphics P4600,None,None
+Intel Xeon E5-2630 V2,6,2.6 GHz,3.1 GHz,Ivy Bridge,80 W,None,None,None
+Intel Core i7-5775C,4,3.3 GHz,3.7 GHz,Broadwell,65 W,Iris Pro Graphics 6200,None,None
+AMD A8-7670K,4,3.6 GHz,3.9 GHz,Steamroller,95 W,Radeon R7 (on-die),None,None
+Intel Core i3-6320,2,3.9 GHz,None,Skylake,51 W,Intel HD Graphics 530,None,None
+Intel Core i3-6300T,2,3.3 GHz,None,Skylake,35 W,Intel HD Graphics 530,None,None
+Intel Pentium G4400T,2,2.9 GHz,None,Skylake,35 W,Intel HD Graphics 510,None,None
+Intel Pentium G4500T,2,3 GHz,None,Skylake,35 W,Intel HD Graphics 530,None,None
+Intel Xeon E3-1230 V5,4,3.4 GHz,3.8 GHz,Skylake,80 W,None,None,None
+Intel Xeon E3-1275 V5,4,3.6 GHz,4 GHz,Skylake,80 W,Intel HD Graphics P530,None,None
+AMD Opteron 6344,12,2.6 GHz,3.2 GHz,Piledriver,115 W,None,None,None
+AMD Athlon X4 880K,4,4 GHz,4.2 GHz,Steamroller,95 W,None,None,None
+Intel Xeon E5-2658 V3,12,2.2 GHz,2.9 GHz,Haswell,105 W,None,5.0,None
+Intel Core i7-6800K,6,3.4 GHz,3.6 GHz,Broadwell,140 W,None,None,None
+Intel Core i7-6850K,6,3.6 GHz,3.8 GHz,Broadwell,140 W,None,None,None
+Intel Core i7-6950X,10,3 GHz,3.5 GHz,Broadwell,140 W,None,None,None
+Intel Xeon E5-2683 V3,14,2 GHz,3 GHz,Haswell,120 W,None,None,None
+Intel Xeon E5-1620 V4,4,3.5 GHz,3.8 GHz,Broadwell,140 W,None,None,None
+AMD Athlon X4 860K,4,3.7 GHz,4 GHz,Steamroller,95 W,None,4.5,None
+Intel Core i3-7300,2,4 GHz,None,Kaby Lake,51 W,Intel HD Graphics 630,None,None
+Intel Core i3-7350K,2,4.2 GHz,None,Kaby Lake,60 W,Intel HD Graphics 630,None,None
+Intel Celeron G3930,2,2.9 GHz,None,Kaby Lake,51 W,Intel HD Graphics 610,None,$72.76
+Intel Pentium G4560T,2,2.9 GHz,None,Kaby Lake,35 W,Intel HD Graphics 610,None,None
+Intel Core i3-7100T,2,3.4 GHz,None,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Core i3-7300T,2,3.5 GHz,None,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Core i5-7400T,4,2.4 GHz,3 GHz,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Core i5-7600T,4,2.8 GHz,3.7 GHz,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Xeon E3-1245 V6,4,3.7 GHz,4.1 GHz,Kaby Lake,73 W,Intel HD Graphics P630,None,$435.16
+AMD A6-9550,2,3.8 GHz,4 GHz,Excavator,65 W,Radeon R5 (on die),None,None
+Intel Core i7-870S,4,2.667 GHz,None,Nehalem,82 W,None,None,None
+Intel Celeron G4920,2,3.2 GHz,None,Coffee Lake,65 W,Intel UHD Graphics 610,None,None
+Intel Pentium Gold G5600,2,3.9 GHz,None,Coffee Lake,54 W,Intel UHD Graphics 630,None,None
+Intel Core i3-4360,2,3.7 GHz,None,Haswell Refresh,54 W,Intel HD Graphics 4600,None,None
+Intel Core i9-9820X,10,3.3 GHz,4.1 GHz,Skylake,165 W,None,None,None
+Intel Xeon E5-2665,8,2.4 GHz,3.1 GHz,Sandy Bridge,115 W,None,None,None
+Intel Core i3-9350K,4,4 GHz,4.6 GHz,Coffee Lake Refresh,91 W,Intel HD Graphics 630,None,None
+Intel Xeon E-2126G,6,3.3 GHz,4.5 GHz,Coffee Lake,80 W,Intel HD Graphics P630,None,None
+Intel Xeon E-2174G,4,3.8 GHz,4.7 GHz,Coffee Lake,71 W,Intel HD Graphics P630,None,None
+Intel Xeon E-2244G,4,3.8 GHz,4.8 GHz,Coffee Lake Refresh,71 W,Intel HD Graphics P630,None,None
+Intel Xeon E-2124,4,3.3 GHz,4.3 GHz,Coffee Lake,71 W,None,None,None
+AMD Athlon II X2 245,2,2.9 GHz,None,K10,65 W,None,None,None
+Intel Celeron 420,1,1.6 GHz,None,Core,35 W,None,None,None
+AMD Athlon II X3 425,3,2.7 GHz,None,K10,95 W,None,None,None
+AMD Athlon II X3 440,3,3 GHz,None,K10,95 W,None,4.0,None
+AMD Phenom II X2 550,2,3.1 GHz,None,K10,80 W,None,3.5,None
+AMD Phenom II X2 550 Black,2,3.1 GHz,None,K10,80 W,None,5.0,None
+AMD Athlon II X4 630,4,2.8 GHz,None,K10,95 W,None,5.0,None
+AMD Athlon II X4 635,4,2.9 GHz,None,K10,95 W,None,None,None
+AMD Phenom II X4 925,4,2.8 GHz,None,K10,95 W,None,None,None
+AMD Athlon II X3 405e,3,2.3 GHz,None,K10,45 W,None,None,None
+AMD Athlon II X4 610e,4,2.4 GHz,None,K10,45 W,None,None,None
+AMD Phenom II X3 720 Black,3,2.8 GHz,None,K10,95 W,None,None,None
+AMD Phenom II X3 740 Black,3,3 GHz,None,K10,95 W,None,5.0,None
+AMD Phenom II X4 905e,4,2.5 GHz,None,K10,65 W,None,None,None
+Intel Celeron E1500,2,2.2 GHz,None,Core,65 W,None,None,None
+Intel Celeron E1500,2,2.2 GHz,None,Core,65 W,None,None,None
+Intel Pentium E2180,2,2 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E4400,2,2 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E4500,2,2.2 GHz,None,Core,65 W,None,None,None
+Intel Pentium E5400,2,2.7 GHz,None,Wolfdale,65 W,None,None,None
+Intel Pentium E5500,2,2.8 GHz,None,Wolfdale,65 W,None,None,None
+Intel Pentium E6300,2,2.8 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E6320,2,1.86 GHz,None,Core,65 W,None,3.0,None
+Intel Core 2 Duo E6540,2,2.33 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E6700,2,2.66 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E6700,2,2.66 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E6850,2,3 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E7500,2,2.93 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E8500,2,3.16 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core i5-655K,2,3.2 GHz,None,Westmere,73 W,Intel HD Graphics,None,None
+Intel Core i5-750S,4,2.4 GHz,None,Nehalem,82 W,None,None,None
+Intel Core i7-860S,4,2.53 GHz,None,Nehalem,82 W,None,None,None
+Intel Core i7-860S,4,2.53 GHz,None,Nehalem,82 W,None,None,None
+Intel Core i7-940,4,2.93 GHz,None,Nehalem,130 W,None,None,None
+Intel Core 2 Quad Q8200,4,2.33 GHz,None,Yorkfield,95 W,None,None,None
+Intel Core 2 Quad Q8200S,4,2.33 GHz,None,Yorkfield,65 W,None,None,None
+Intel Core 2 Quad Q8300,4,2.5 GHz,None,Yorkfield,95 W,None,None,None
+Intel Core 2 Quad Q9450,4,2.66 GHz,None,Yorkfield,95 W,None,5.0,None
+Intel Core 2 Quad Q9505,4,2.83 GHz,None,Yorkfield,95 W,None,None,None
+Intel Core 2 Quad Q9505,4,2.83 GHz,None,Yorkfield,95 W,None,None,None
+Intel Core 2 Quad Q9505S,4,2.83 GHz,None,Yorkfield,65 W,None,None,None
+Intel Core 2 Extreme QX6700,4,2.66 GHz,None,Core,100 W,None,None,None
+Intel Core 2 Extreme QX6800,4,2.93 GHz,None,Core,100 W,None,4.0,None
+Intel Core 2 Extreme QX6800,4,2.93 GHz,None,Core,100 W,None,None,None
+Intel Core 2 Extreme QX6850,4,3 GHz,None,Core,130 W,None,None,None
+Intel Core 2 Extreme QX9650,4,3 GHz,None,Yorkfield,130 W,None,None,None
+Intel Core 2 Extreme QX9770,4,3.2 GHz,None,Yorkfield,136 W,None,None,None
+Intel Core 2 Extreme QX9775,4,3.2 GHz,None,Yorkfield,150 W,None,None,None
+Intel Core 2 Extreme X6800,2,2.93 GHz,None,Core,75 W,None,None,None
+AMD Athlon II X2 265,2,3.2 GHz,None,K10,65 W,None,None,None
+AMD Phenom II X4 970 Black,4,3.5 GHz,None,K10,125 W,None,4.5,None
+AMD Athlon II X3 455,3,3.3 GHz,None,K10,95 W,None,4.0,None
+Intel Pentium E6700,2,3.2 GHz,None,Wolfdale,65 W,None,None,None
+AMD Phenom II X4 840,4,3.2 GHz,None,K10,95 W,None,4.0,None
+AMD Phenom II X4 925,4,2.8 GHz,None,K10,95 W,None,None,None
+AMD Sempron 130,1,2.6 GHz,None,K10,45 W,None,None,None
+AMD FX-6100,6,3.3 GHz,None,Bulldozer,95 W,None,None,None
+Intel Pentium G630T,2,2.3 GHz,None,Sandy Bridge,35 W,Intel HD Graphics,None,None
+AMD Phenom II X4 980 Black,4,3.7 GHz,None,K10,125 W,None,None,None
+AMD Athlon II X2 260,2,3.2 GHz,None,K10,65 W,None,None,None
+Intel Pentium G550,2,2.6 GHz,None,Sandy Bridge,65 W,Intel HD Graphics,3.5,None
+Intel Celeron G555,2,2.7 GHz,None,Sandy Bridge,65 W,Intel HD Graphics,None,None
+AMD FX-8300,8,3.3 GHz,None,Piledriver,95 W,None,None,None
+Intel Xeon E3-1230,4,3.2 GHz,None,Sandy Bridge,80 W,None,4.0,None
+Intel Xeon E3-1240,4,3.3 GHz,None,Sandy Bridge,80 W,None,None,None
+Intel Xeon E3-1270,4,3.4 GHz,None,Sandy Bridge,80 W,None,None,None
+Intel Pentium G2130,2,3.2 GHz,None,Ivy Bridge,55 W,Intel HD Graphics,None,None
+Intel Xeon E5-2640,6,2.5 GHz,3 GHz,Sandy Bridge,95 W,None,None,None
+Intel Xeon E5-2609 V2,4,2.5 GHz,None,Ivy Bridge,80 W,None,None,None
+Intel Celeron G1850,2,2.9 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,None,None
+Intel Pentium G3258,2,3.2 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,None,None
+AMD Sempron X2 198,2,2.5 GHz,None,Lynx,65 W,None,None,None
+AMD A10-6790K,4,4 GHz,4.3 GHz,Piledriver,100 W,Radeon HD 8670D,None,None
+AMD A4-3300,2,2.5 GHz,None,Lynx,65 W,Radeon HD 6410D,None,None
+AMD A4-3400,2,2.7 GHz,None,Lynx,65 W,Radeon HD 6410D,None,None
+AMD A4-4020,2,3.2 GHz,3.4 GHz,Piledriver,65 W,Radeon HD 7480D,None,None
+AMD A4-3450,2,2.9 GHz,None,Lynx,65 W,None,None,None
+AMD A6-7400K,2,3.5 GHz,3.9 GHz,Steamroller,65 W,Radeon R5 (on die),None,None
+Intel Celeron G470,1,2 GHz,None,Sandy Bridge,35 W,Intel HD Graphics,None,None
+AMD FX-4150,4,4 GHz,4.1 GHz,Bulldozer,125 W,None,None,None
+AMD FX-4200,4,3.3 GHz,None,Bulldozer,125 W,None,3.5,None
+AMD FX-4320,4,4 GHz,4.2 GHz,Piledriver,95 W,None,None,None
+AMD FX-6200,6,3.8 GHz,None,Bulldozer,125 W,None,None,None
+AMD Athlon II X2 221,2,2.8 GHz,None,Lynx,65 W,None,None,None
+AMD Athlon II X2 221,2,2.8 GHz,None,Lynx,65 W,None,None,None
+AMD Athlon II X4 651,4,3 GHz,None,Lynx,100 W,None,None,None
+AMD Athlon II X4 638,4,2.7 GHz,None,Lynx,65 W,None,None,None
+AMD E2-3200,2,2.4 GHz,None,Lynx,65 W,Radeon HD 6370D,None,None
+AMD Athlon X2 370K,2,4.2 GHz,None,Piledriver,65 W,None,None,None
+Intel Xeon E3-1230 V3,4,3.3 GHz,3.7 GHz,Haswell,80 W,None,None,None
+AMD Pro A6-7400B,2,3.5 GHz,3.9 GHz,Steamroller,65 W,Radeon R5 (on die),None,None
+AMD Athlon X2 350,2,3.5 GHz,3.9 GHz,Piledriver,65 W,None,None,None
+AMD Sempron X2 250,2,3.2 GHz,3.6 GHz,Piledriver,65 W,None,None,None
+AMD Phenom II X4 B99,4,3.3 GHz,None,K10,95 W,None,None,None
+Intel Pentium G3250,2,3.2 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,None,None
+Intel Pentium G3450,2,3.4 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,None,None
+Intel Xeon E5-2609 V3,6,1.9 GHz,None,Haswell,85 W,None,None,None
+Intel Xeon E5-2685 V3,12,2.6 GHz,3.3 GHz,Haswell,120 W,None,None,None
+Intel Xeon E5-2603 V2,4,1.8 GHz,None,Ivy Bridge,80 W,None,None,None
+AMD FX-8310,8,3.4 GHz,4.3 GHz,Piledriver,95 W,None,None,None
+Intel Core i5-4570S,4,2.9 GHz,None,Haswell,65 W,Intel HD Graphics 4600,None,None
+AMD A10-7870K,4,3.9 GHz,4.1 GHz,Steamroller,95 W,Radeon R7 (on-die),None,None
+Intel Pentium G3470,2,3.6 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,None,None
+Intel Pentium G3470,2,3.6 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,5.0,$153.10
+AMD A8-7670K,4,3.6 GHz,3.9 GHz,Steamroller,95 W,Radeon R7 (on-die),None,None
+Intel Core i3-6300,2,3.8 GHz,None,Skylake,51 W,Intel HD Graphics 530,4.0,None
+Intel Pentium G4500,2,3.5 GHz,None,Skylake,51 W,Intel HD Graphics 530,None,None
+Intel Pentium G4520,2,3.6 GHz,None,Skylake,51 W,Intel HD Graphics 530,None,None
+Intel Xeon E3-1220 V5,4,3 GHz,3.5 GHz,Skylake,80 W,None,None,None
+Intel Xeon E3-1270 V5,4,3.6 GHz,4 GHz,Skylake,80 W,None,None,None
+AMD Opteron 6328,8,3.2 GHz,3.8 GHz,Piledriver,115 W,None,None,None
+Intel Pentium G3260,2,3.3 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,None,None
+AMD Athlon X4 845,4,3.5 GHz,3.8 GHz,Puma+,65 W,None,None,None
+AMD A6-7470K,2,3.7 GHz,4 GHz,Steamroller,65 W,Radeon R5 (on die),None,None
+AMD A10-7860k,4,3.6 GHz,4 GHz,Steamroller,65 W,Radeon R7 (on-die),None,None
+AMD Athlon 5370,4,2.2 GHz,None,Jaguar,25 W,Radeon R3 (on die),None,None
+Intel Core i7-6900K,8,3.2 GHz,3.7 GHz,Broadwell,140 W,None,5.0,None
+Intel Core i3-7320,2,4.1 GHz,None,Kaby Lake,51 W,Intel HD Graphics 630,None,None
+Intel Pentium G4600T,2,3 GHz,None,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Core i3-7101TE,2,3.4 GHz,None,Kaby Lake,35 W,Intel HD Graphics 610,None,None
+Intel Core i3-7100T,2,3.4 GHz,None,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Core i3-7300T,2,3.5 GHz,None,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Core i5-7500T,4,2.7 GHz,3.3 GHz,Kaby Lake,35 W,Intel HD Graphics 630,None,None
+Intel Core i7-7740X,4,4.3 GHz,4.5 GHz,Kaby Lake,112 W,None,None,None
+Intel Xeon E3-1225 V6,4,3.3 GHz,3.7 GHz,Kaby Lake,73 W,Intel HD Graphics P630,None,$349.95
+Intel Xeon E3-1275 V6,4,3.8 GHz,4.2 GHz,Kaby Lake,73 W,Intel HD Graphics P630,None,$495.40
+AMD A6-9550,2,3.8 GHz,4 GHz,Excavator,65 W,Radeon R5 (on die),None,None
+AMD Athlon X4 940,4,3.2 GHz,3.6 GHz,Excavator,65 W,None,None,None
+Intel Core i7-870S,4,2.667 GHz,None,Nehalem,82 W,None,None,None
+Intel Core i9-7940X,14,3.1 GHz,4.4 GHz,Skylake,165 W,None,None,None
+Intel Xeon E5-2660,8,2.2 GHz,3 GHz,Sandy Bridge,95 W,None,None,None
+Intel Xeon E5-2660,8,2.2 GHz,3 GHz,Sandy Bridge,95 W,None,None,None
+Intel Core i3-9320,4,3.7 GHz,4.4 GHz,Coffee Lake Refresh,62 W,None,None,None
+Intel Core i3-9320,4,3.7 GHz,4.4 GHz,Coffee Lake Refresh,62 W,None,None,None
+Intel Xeon E-2134,4,3.5 GHz,4.5 GHz,Coffee Lake,71 W,None,None,None
+Intel Pentium G3240,2,3.1 GHz,None,Haswell Refresh,53 W,Intel HD Graphics,None,None
+Intel Pentium G3420,2,3.2 GHz,None,Haswell,54 W,Intel HD Graphics,None,None
+Intel Celeron 430,1,1.8 GHz,None,Core,35 W,None,None,None
+AMD Athlon II X3 435,3,2.9 GHz,None,K10,95 W,None,None,None
+AMD Athlon II X3 435,3,2.9 GHz,None,K10,95 W,None,None,None
+AMD Athlon II X3 440,3,3 GHz,None,K10,95 W,None,None,None
+Intel Celeron 440,1,2 GHz,None,Core,35 W,None,None,None
+AMD Athlon II X3 445,3,3.1 GHz,None,K10,95 W,None,None,None
+AMD Phenom II X2 545,2,3 GHz,None,K10,80 W,None,None,None
+AMD Athlon II X4 635,4,2.9 GHz,None,K10,95 W,None,None,None
+AMD Phenom II X3 710,3,2.6 GHz,None,K10,95 W,None,None,None
+AMD Phenom II X3 720,3,2.8 GHz,None,K10,95 W,None,5.0,None
+AMD Phenom II X4 805,4,2.5 GHz,None,K10,95 W,None,None,None
+AMD Phenom II X4 945,4,3 GHz,None,K10,125 W,None,4.0,None
+AMD Athlon II X2 245e,2,2.9 GHz,None,K10,45 W,None,None,None
+AMD Athlon II X2 260u,2,1.8 GHz,None,K10,25 W,None,None,None
+AMD Athlon II X3 400e,3,2.2 GHz,None,K10,45 W,None,None,None
+AMD Athlon II X3 405e,3,2.3 GHz,None,K10,45 W,None,None,None
+AMD Athlon II X3 415e,3,2.5 GHz,None,K10,45 W,None,None,None
+AMD Phenom II X3 705e,3,2.5 GHz,None,K10,65 W,None,None,None
+Intel Celeron E1200,2,1.6 GHz,None,Core,65 W,None,None,None
+Intel Celeron E1400,2,2 GHz,None,Core,65 W,None,None,None
+Intel Celeron E1600,2,2.4 GHz,None,Core,65 W,None,None,None
+Intel Celeron E1600,2,2.4 GHz,None,Core,65 W,None,None,None
+Intel Pentium E2140,2,1.6 GHz,None,Core,65 W,None,None,None
+Intel Pentium E2200,2,2.2 GHz,None,Core,65 W,None,None,None
+Intel Celeron E3200,2,2.4 GHz,None,Wolfdale,65 W,None,None,None
+Intel Celeron E3200,2,2.4 GHz,None,Wolfdale,65 W,None,None,None
+Intel Celeron E3300,2,2.5 GHz,None,Wolfdale,65 W,None,None,None
+Intel Pentium E5400,2,2.7 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E6400,2,2.13 GHz,None,Core,65 W,None,None,None
+Intel Pentium E6500,2,2.93 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E6550,2,2.33 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E6750,2,2.66 GHz,None,Core,65 W,None,None,None
+Intel Core 2 Duo E7200,2,2.53 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E7300,2,2.66 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E7400,2,2.8 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E7400,2,2.8 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E7600,2,3.06 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E8190,2,2.66 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E8200,2,2.66 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E8200,2,2.66 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core 2 Duo E8500,2,3.16 GHz,None,Wolfdale,65 W,None,None,None
+Intel Core i5-750S,4,2.4 GHz,None,Nehalem,82 W,None,None,None
+Intel Core i7-965 Extreme Edition,4,3.2 GHz,None,Nehalem,130 W,None,None,None
+Intel Core 2 Quad Q8200,4,2.33 GHz,None,Yorkfield,95 W,None,None,None
+Intel Core 2 Quad Q8200S,4,2.33 GHz,None,Yorkfield,65 W,None,None,None
+Intel Core 2 Quad Q8400,4,2.66 GHz,None,Yorkfield,95 W,None,None,None
+Intel Core 2 Quad Q8400S,4,2.66 GHz,None,Yorkfield,65 W,None,None,None
+Intel Core 2 Quad Q8400S,4,2.66 GHz,None,Yorkfield,65 W,None,None,None
+Intel Core 2 Quad Q9400S,4,2.66 GHz,None,Yorkfield,65 W,None,None,None
+Intel Core 2 Quad Q9400S,4,2.66 GHz,None,Yorkfield,65 W,None,None,None
+Intel Core 2 Quad Q9450,4,2.66 GHz,None,Yorkfield,95 W,None,None,None
+Intel Core 2 Extreme QX6800,4,2.93 GHz,None,Core,100 W,None,None,None
+Intel Core 2 Extreme QX6800,4,2.93 GHz,None,Core,100 W,None,None,None
+Intel Core 2 Extreme QX9775,4,3.2 GHz,None,Yorkfield,150 W,None,None,None
+Intel Core 2 Extreme QX9775,4,3.2 GHz,None,Yorkfield,150 W,None,None,None
+AMD Athlon II X2 255,2,3.1 GHz,None,K10,65 W,None,None,None
+AMD Phenom II X3 715 Black,3,2.8 GHz,None,K10,95 W,None,None,None
+AMD Athlon II X3 425,3,2.7 GHz,None,K10,95 W,None,None,None
+AMD Phenom II X4 955,4,3.2 GHz,None,K10,125 W,None,None,None
+AMD Phenom II X4 955,4,3.2 GHz,None,K10,125 W,None,None,None
+AMD Phenom II X4 960T Black,4,3 GHz,None,K10,95 W,None,4.0,None
+AMD Athlon II X2 245,2,2.9 GHz,None,K10,65 W,None,None,None
+AMD Athlon II X2 245,2,2.9 GHz,None,K10,65 W,None,None,None
+AMD Sempron 130,1,2.6 GHz,None,K10,45 W,None,None,None
+AMD Athlon II X3 440,3,3 GHz,None,K10,95 W,None,5.0,None
+AMD FX-8150,8,3.6 GHz,None,Bulldozer,125 W,None,None,None
+AMD Phenom II X6 1100T Black,6,3.3 GHz,None,K10,125 W,None,None,None
+AMD FX-8150,8,3.6 GHz,None,Bulldozer,125 W,None,5.0,None
+Intel Xeon E3-1280,4,3.5 GHz,None,Sandy Bridge,95 W,None,None,None
+Intel Pentium G3430,2,3.3 GHz,None,Haswell,54 W,Intel HD Graphics,None,None
+Intel Celeron G1830,2,2.8 GHz,None,Haswell,53 W,Intel HD Graphics,None,None
+AMD A6-6420K,2,4 GHz,4.2 GHz,Piledriver,65 W,Radeon HD 8000 Series,None,None
+AMD A4-4020,2,3.2 GHz,3.4 GHz,Piledriver,65 W,Radeon HD 7480D,None,None
+AMD 5150,4,1.6 GHz,None,Jaguar,25 W,Radeon HD 8400,None,None
+AMD Sempron X2 198,2,2.5 GHz,None,Lynx,65 W,None,None,None
+AMD A10-6790B,4,4 GHz,None,Piledriver,100 W,Radeon HD 8670D,None,None
+AMD A4-6320,2,3.8 GHz,4 GHz,Piledriver,65 W,Radeon HD 8370D,None,None
+AMD A4-3300,2,2.5 GHz,None,Lynx,65 W,Radeon HD 6410D,None,None
+AMD A4-3400,2,2.7 GHz,None,Lynx,65 W,Radeon HD 6410D,None,None
+AMD FX-4170,4,4.2 GHz,None,Bulldozer,125 W,None,None,None
+AMD FX-6130,6,3.6 GHz,3.9 GHz,Bulldozer,125 W,None,None,None
+AMD FX-8140,8,3.2 GHz,4.1 GHz,Bulldozer,95 W,None,None,None
+AMD Athlon II X4 638,4,2.7 GHz,None,Lynx,65 W,None,None,None
+AMD E2-3200,2,2.4 GHz,None,Lynx,65 W,Radeon HD 6370D,None,None
+Intel Xeon E5-2630,6,2.3 GHz,None,Sandy Bridge,95 W,None,None,None
+AMD FX-8370E,8,3.3 GHz,4.3 GHz,Piledriver,95 W,None,None,None
+AMD Athlon X4 530,4,2 GHz,None,Jaguar,25 W,None,None,None
+Intel Xeon E5-2622 V3,8,2.4 GHz,None,Haswell,85 W,None,None,None
+Intel Xeon E5-2609,4,2.4 GHz,None,Sandy Bridge,80 W,None,None,None
+AMD Phenom II X6 1065T,6,2.7 GHz,None,K10,95 W,None,None,None
+AMD Phenom II X6 1065T,6,2.7 GHz,None,K10,95 W,None,None,None
+Intel Core i5-6600T,4,2.7 GHz,3.5 GHz,Skylake,35 W,Intel HD Graphics 530,None,None
+Intel Xeon E3-1225 V5,4,3.3 GHz,3.7 GHz,Skylake,80 W,Intel HD Graphics P530,None,None
+Intel Xeon E3-1245 V5,4,3.5 GHz,3.9 GHz,Skylake,80 W,Intel HD Graphics P530,None,None
+AMD A8-7650K,4,3.3 GHz,3.7 GHz,Steamroller,95 W,Radeon R7 (on-die),None,None
