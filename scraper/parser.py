@@ -103,6 +103,7 @@ def get_product_details(rows, spec_count, spec_headers):
     Output:
     - products: list of products formatted as a header:value dictionary
     '''
+
     products = []
 
     for row in rows:
@@ -158,7 +159,7 @@ def get_product_details(rows, spec_count, spec_headers):
 
     return products
 
-def scrape_product(product_name, spec_headers):
+def parse(product_name, spec_headers):
     data_path = f"./data/{product_name}.csv"
     pages_path = f"./pages/{product_name}"
 
@@ -198,4 +199,4 @@ if __name__ == "__main__":
     - power-supply
     - video-card
     '''
-    scrape_product("motherboard", MOTHERBOARD_HEADERS)
+    parse("internal-hard-drive", INTERNAL_HARD_DRIVE_HEADERS)
