@@ -1,0 +1,1 @@
+{"min_cores": 4, "min_core_clock_ghz": 3.0, "min_boost_clock_ghz": 4.0, "microarchitecture": ["zen_4", "raptor_lake"], "max_tdp_watts": 125, "needs_integrated_graphics": false, "min_rating": 4.5, "max_price": 800.0}

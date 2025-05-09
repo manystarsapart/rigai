@@ -1,0 +1,1 @@
+{"min_capacity_gb": 1000, "preferred_type": ["ssd"], "min_cache_mb": 2048, "preferred_form_factor": ["m.2_2280"], "preferred_interface": ["m.2_pcie_4.0_x4"], "min_rating": 4.5, "max_price_per_gb": 0.2}
