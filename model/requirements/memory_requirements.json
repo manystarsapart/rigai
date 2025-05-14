@@ -1,1 +1,1 @@
-{"min_capacity_gb": 16, "min_speed_mhz": 3000, "preferred_module_count": 2, "max_cas_latency": 16.0, "preferred_color": ["multicolor", "blue", "white"], "min_rating": 4.0, "max_price_per_gb": 10.0}
+{"min_capacity_gb": 64, "min_speed_mhz": 3200, "preferred_module_count": 4, "max_cas_latency": 18.0, "max_price": 200.0}
