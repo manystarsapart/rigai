@@ -1,1 +1,1 @@
-{"min_cores": 8, "min_core_clock_ghz": 3.5, "min_boost_clock_ghz": 4.5, "microarchitecture": ["zen_4", "raptor_lake"], "max_tdp_watts": 125, "max_price": 800.0}
+{"min_cores": 4, "min_core_clock_ghz": 2.5, "min_boost_clock_ghz": null, "microarchitecture": null, "max_tdp_watts": null, "max_price": null}

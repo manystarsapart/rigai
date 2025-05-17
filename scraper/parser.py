@@ -160,7 +160,7 @@ def get_product_details(rows, spec_count, spec_headers):
     return products
 
 def parse(product_name, spec_headers):
-    data_path = f"./data/{product_name}.csv"
+    data_path = f"./parsed/{product_name}.csv"
     pages_path = f"./pages/{product_name}"
 
     pages = len(os.listdir(pages_path))

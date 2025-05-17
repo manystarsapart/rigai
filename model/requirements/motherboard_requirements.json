@@ -1,1 +1,1 @@
-{"preferred_socket": ["am5", "lga1700"], "preferred_form_factor": ["atx", "micro_atx"], "min_max_memory_gb": 128, "min_memory_slots": 4, "max_price": 800.0}
+{"preferred_socket": null, "preferred_form_factor": null, "min_max_memory_gb": 64, "min_memory_slots": 4, "max_price": null}
