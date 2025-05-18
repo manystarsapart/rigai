@@ -20,7 +20,7 @@ def call_to_model(messages, response_model):
 def get_requirements(message: str):
     system_prompt = '''You are an expert assistant helping to extract PC component preferences from user input. Your task is to identify only the details that the user explicitly or implicitly mentions about their desired PC build. 
 
-    The main objective is to have a list of filters that tries to significantly narrow down the choice of PC component from the wide selection within the market. Try to infer or assume user preferences within reason. For attributes that are not clearly stated or reasonably implied, you should ignore and leave blank (i.e. return None).
+    You can only infer user preferences if it is within reason. For attributes that are not clearly stated or reasonably implied, you should ignore and leave blank (i.e. return None).
 
     Some examples include:
     'I want a PC that has lots of storage as well as RAM.' -> high min_capacity_gb for both memory and storage
@@ -34,6 +34,7 @@ def get_requirements(message: str):
 
     try: 
         pc_requirements = call_to_model(messages, PCRequirements)
+        print("Called using PCRequirements!")
         return pc_requirements
     except:
         cpu_requirements = call_to_model(messages, CPURequirements)
@@ -41,6 +42,8 @@ def get_requirements(message: str):
         storage_requirements = call_to_model(messages, StorageRequirements)
         memory_requirements = call_to_model(messages, MemoryRequirements)
         motherboard_requirements = call_to_model(messages, MotherboardRequirements)
+
+        print("Called using separate Requirements!")
 
         return {
             "cpu": cpu_requirements, 
@@ -56,7 +59,7 @@ def save_requirements(reqs: dict, path: str):
             json.dump(data, f, default=lambda x: x._name_)
 
 if __name__ == "__main__":
-    message = "I'm a storyboard animator, and I want a decent PC rig that does things fast! It needs at least 1 TB of storage as well as 16 GB of storage. Try to keep the costs as low as possible, but without sacrificing performance."
+    message = "I'm a storyboard animator, and I want a decent PC rig that does things fast! It needs at least 1 TB of storage as well as 16 GB of RAM. Try to keep the costs as low as possible, but without sacrificing performance."
 
     response = get_requirements(message)
 

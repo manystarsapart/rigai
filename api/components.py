@@ -86,8 +86,8 @@ class MotherboardRequirements(BaseModel):
     max_price: Optional[float] = Field(None, description="Maximum budget for case (in USD)")
 
 class PCRequirements(BaseModel):
-    cpu: CPURequirements = Field(None, description="Details of preferred CPU")
-    cooler: CoolerRequirements = Field(None, description="Details of preferred CPU")
-    storage: StorageRequirements = Field(None, description="Details of preferred internal hard drive for storage")
-    memory: MemoryRequirements = Field(None, description="Details of preferred memory RAM")
-    motherboard: MotherboardRequirements = Field(None, description="Details of preferred motherboard")
+    cpu: CPURequirements = Field(description="Details of preferred CPU")
+    cooler: CoolerRequirements = Field(description="Details of preferred CPU")
+    storage: StorageRequirements = Field(description="Details of preferred internal hard drive for storage")
+    memory: MemoryRequirements = Field(description="Details of preferred memory RAM")
+    motherboard: MotherboardRequirements = Field(description="Details of preferred motherboard")

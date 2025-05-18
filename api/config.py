@@ -4,6 +4,7 @@ from groq import Groq
 
 load_dotenv("../.env")
 GROQ_KEY = os.getenv("GROQ_KEY")
-MODEL = "llama3-70b-8192"
+MODEL = "llama-3.1-8b-instant"
 
 data_path = "../data"
+
