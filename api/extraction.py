@@ -2,7 +2,7 @@ import json
 import os
 import instructor 
 from groq import Groq
-from config import GROQ_KEY, MODEL
+from config import *
 from components import CPURequirements, CoolerRequirements, StorageRequirements, MemoryRequirements, MotherboardRequirements, PCRequirements
 
 client = Groq(api_key=GROQ_KEY)
@@ -59,7 +59,7 @@ def save_requirements(reqs: dict, path: str):
             json.dump(data, f, default=lambda x: x._name_)
 
 if __name__ == "__main__":
-    message = "I'm a storyboard animator, and I want a decent PC rig that does things fast! It needs at least 1 TB of storage as well as 16 GB of RAM. Try to keep the costs as low as possible, but without sacrificing performance."
+    message = TEST_MESSAGE
 
     response = get_requirements(message)
 

@@ -155,4 +155,3 @@ def filter_motherboard(
 
 
     return df.loc[pd.concat(filters, axis=1).all(axis=1)].reset_index(drop=True)
-

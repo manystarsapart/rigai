@@ -14,7 +14,6 @@ def parrot(message: str):
 
 @app.get("/extract")
 def extract(message: str):
-    print(message)
     reqs = get_requirements(message)
     return reqs
 
