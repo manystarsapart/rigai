@@ -6,4 +6,3 @@ pandas
 groq
 instructor
 typing
-enum
