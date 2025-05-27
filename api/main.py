@@ -1,6 +1,6 @@
 from fastapi import FastAPI 
-from recommendation import * 
-from extraction import get_requirements
+from .recommendation import * 
+from .extraction import get_requirements
 
 app = FastAPI()
 

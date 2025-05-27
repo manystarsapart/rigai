@@ -2,8 +2,8 @@ import numpy as np
 import pandas as pd
 from pydantic import BaseModel, Field
 from typing import Optional, Literal, List
-from utils import create_enum_from_list, get_colours
-from config import data_path
+from .utils import create_enum_from_list, get_colours
+from .config import data_path
 
 cpu_df = pd.read_csv(f"./{data_path}/cpu.csv")
 cooler_df = pd.read_csv(f"./{data_path}/cooler.csv")

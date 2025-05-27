@@ -1,8 +1,8 @@
 import json
 import math
 import pandas as pd 
-from utils import convert_to_enum_name
-from config import data_path
+from .utils import convert_to_enum_name
+from .config import data_path
 
 cpu_df = pd.read_csv(f"./{data_path}/cpu.csv")
 cooler_df = pd.read_csv(f"./{data_path}/cooler.csv")
