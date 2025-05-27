@@ -3,8 +3,8 @@ import instructor
 from groq import Groq
 from pydantic import BaseModel
 from .extraction import get_requirements
-from filters import *
-from config import *
+from .filters import *
+from .config import *
 
 client = Groq(api_key=GROQ_KEY)
 client = instructor.from_groq(client, mode=instructor.Mode.JSON)
