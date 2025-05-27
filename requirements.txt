@@ -1,8 +1,9 @@
 fastapi[standard]
-uvicorn
 python-dotenv
 pydantic
 numpy
 pandas
 groq
 instructor
+typing
+enum
