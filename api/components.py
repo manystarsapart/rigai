@@ -2,14 +2,14 @@ import numpy as np
 import pandas as pd
 from pydantic import BaseModel, Field
 from typing import Optional, Literal, List
-from utils import create_enum_from_list, get_colours
-from config import data_path
+from .utils import create_enum_from_list, get_colours
+from .config import data_path
 
-cpu_df = pd.read_csv(f"./{data_path}/cpu.csv")
-cooler_df = pd.read_csv(f"./{data_path}/cooler.csv")
-storage_df = pd.read_csv(f"./{data_path}/storage.csv")
-memory_df = pd.read_csv(f"./{data_path}/memory.csv")
-motherboard_df = pd.read_csv(f"./{data_path}/motherboard.csv")
+cpu_df = pd.read_csv(data_path / "cpu.csv")
+cooler_df = pd.read_csv(data_path / "cooler.csv")
+storage_df = pd.read_csv(data_path / "storage.csv")
+memory_df = pd.read_csv(data_path / "memory.csv")
+motherboard_df = pd.read_csv(data_path / "motherboard.csv")
 
 # lists of unique values for each component's detail
 CPU_MICROARCHITECTURES = sorted(cpu_df['microarchitecture'].dropna().unique().tolist())
