@@ -2,8 +2,8 @@ import json
 import os
 import instructor 
 from groq import Groq
-from config import GROQ_KEY, MODEL
-from components import CPURequirements, CoolerRequirements, StorageRequirements, MemoryRequirements, MotherboardRequirements, PCRequirements
+from .config import GROQ_KEY, MODEL
+from .components import CPURequirements, CoolerRequirements, StorageRequirements, MemoryRequirements, MotherboardRequirements, PCRequirements
 
 client = Groq(api_key=GROQ_KEY)
 client = instructor.from_groq(client, mode=instructor.Mode.JSON)

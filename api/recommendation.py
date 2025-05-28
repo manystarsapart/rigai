@@ -2,18 +2,18 @@ import json
 import instructor 
 from groq import Groq
 from pydantic import BaseModel
-from extraction import get_requirements
-from filters import *
-from config import *
+from .extraction import get_requirements
+from .filters import *
+from .config import *
 
 client = Groq(api_key=GROQ_KEY)
 client = instructor.from_groq(client, mode=instructor.Mode.JSON)
 
-cpu_df = pd.read_csv(f"./{data_path}/cpu.csv")
-cooler_df = pd.read_csv(f"./{data_path}/cooler.csv")
-storage_df = pd.read_csv(f"./{data_path}/storage.csv")
-memory_df = pd.read_csv(f"./{data_path}/memory.csv")
-motherboard_df = pd.read_csv(f"./{data_path}/motherboard.csv")
+cpu_df = pd.read_csv(data_path / "cpu.csv")
+cooler_df = pd.read_csv(data_path / "cooler.csv")
+storage_df = pd.read_csv(data_path / "storage.csv")
+memory_df = pd.read_csv(data_path / "memory.csv")
+motherboard_df = pd.read_csv(data_path / "motherboard.csv")
 
 class Component(BaseModel):
     index: int

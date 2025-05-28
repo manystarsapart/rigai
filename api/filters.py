@@ -1,14 +1,14 @@
 import json
 import math
 import pandas as pd 
-from utils import convert_to_enum_name
-from config import data_path
+from .utils import convert_to_enum_name
+from .config import data_path
 
-cpu_df = pd.read_csv(f"./{data_path}/cpu.csv")
-cooler_df = pd.read_csv(f"./{data_path}/cooler.csv")
-storage_df = pd.read_csv(f"./{data_path}/storage.csv")
-memory_df = pd.read_csv(f"./{data_path}/memory.csv")
-motherboard_df = pd.read_csv(f"./{data_path}/motherboard.csv")
+cpu_df = pd.read_csv(data_path / "cpu.csv")
+cooler_df = pd.read_csv(data_path / "cooler.csv")
+storage_df = pd.read_csv(data_path / "storage.csv")
+memory_df = pd.read_csv(data_path / "memory.csv")
+motherboard_df = pd.read_csv(data_path / "motherboard.csv")
 
 def filter_cpu(
     df,
