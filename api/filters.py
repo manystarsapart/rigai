@@ -41,7 +41,7 @@ def filter_cpu(
     if microarchitecture:
         filters.append(df['microarchitecture'].apply(convert_to_enum_name).isin(microarchitecture))
 
-    return df.loc[pd.concat(filters, axis=1).all(axis=1)].reset_index(drop=False).rename(columns={"index": "real_index"})
+    return df.loc[pd.concat(filters, axis=1).all(axis=1)].reset_index(drop=False).rename(columns={"index": "item_id"})
 
 def filter_cooler(
     df,
@@ -66,7 +66,7 @@ def filter_cooler(
         df["price"].astype(float) <= max_price,
     ]
 
-    return df.loc[pd.concat(filters, axis=1).all(axis=1)].reset_index(drop=False).rename(columns={"index": "real_index"})
+    return df.loc[pd.concat(filters, axis=1).all(axis=1)].reset_index(drop=False).rename(columns={"index": "item_id"})
 
 def filter_storage(
     df,
@@ -99,7 +99,7 @@ def filter_storage(
     if preferred_interface is not None:
         filters.append(df["interface"].apply(convert_to_enum_name).isin(preferred_interface))
 
-    return df.loc[pd.concat(filters, axis=1).all(axis=1)].reset_index(drop=False).rename(columns={"index": "real_index"})
+    return df.loc[pd.concat(filters, axis=1).all(axis=1)].reset_index(drop=False).rename(columns={"index": "item_id"})
 
 def filter_memory(
     df,
@@ -124,7 +124,7 @@ def filter_memory(
         df["price"].astype(float) <= max_price,
     ]
 
-    return df.loc[pd.concat(filters, axis=1).all(axis=1)].reset_index(drop=False).rename(columns={"index": "real_index"})
+    return df.loc[pd.concat(filters, axis=1).all(axis=1)].reset_index(drop=False).rename(columns={"index": "item_id"})
 
 def filter_motherboard(
     df,
@@ -154,4 +154,4 @@ def filter_motherboard(
         filters.append(df["form_factor"].apply(convert_to_enum_name).isin(preferred_form_factor))
 
 
-    return df.loc[pd.concat(filters, axis=1).all(axis=1)].reset_index(drop=False).rename(columns={"index": "real_index"})
+    return df.loc[pd.concat(filters, axis=1).all(axis=1)].reset_index(drop=False).rename(columns={"index": "item_id"})

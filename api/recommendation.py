@@ -16,7 +16,7 @@ memory_df = pd.read_csv(data_path / "memory.csv")
 motherboard_df = pd.read_csv(data_path / "motherboard.csv")
 
 class Component(BaseModel):
-    index: int
+    item_id: int
     name: str 
     price: float
 
@@ -50,7 +50,7 @@ def get_filtered_csvs(message: str, limit: int):
     return cpu_filtered, cooler_filtered, storage_filtered, memory_filtered, motherboard_filtered
 
 def get_recommendation(message: str):
-    system_prompt = """You are tasked with recommending a compatible and high-performance PC setup. You are given five JSON arrays, consisting of details of CPUs, coolers, storage hard drives, memory modules, and motherboards. From the list, choose only ONE component from each array, ensuring compatibility across all components that it meets the user's expectation and preference based on their input. For each component, output the name, as well as the index number of its row. You must only select from the given options. Do not invent anything new."""
+    system_prompt = """You are tasked with recommending a compatible and high-performance PC setup. You are given five JSON arrays, consisting of details of CPUs, coolers, storage hard drives, memory modules, and motherboards. From the list, choose only ONE component from each array, ensuring compatibility across all components that it meets the user's expectation and preference based on their input. For each component, output the name, as well as its item ID. You must only select from the given options. Do not invent anything new."""
 
     cpu_filtered, cooler_filtered, storage_filtered, memory_filtered, motherboard_filtered = get_filtered_csvs(message=message, limit=10)
 
