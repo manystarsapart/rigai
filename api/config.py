@@ -6,8 +6,9 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent.resolve()
 
 load_dotenv(BASE_DIR / '.env')
-GROQ_KEY = os.environ.get("GROQ_KEY")
-MODEL = "llama-3.1-8b-instant"
+GROQ_KEY = os.environ.get("GROQ_KEY")   
+# MODEL = "llama-3.1-8b-instant"
+MODEL = "llama-3.3-70b-versatile"
 
 data_path = BASE_DIR.parent / "data"
 
