@@ -27,6 +27,6 @@ def extract(message: str):
     return reqs
 
 @app.get("/recommend")
-def recommend(message: str):
-    rec = get_recommendation(message=message)
+def recommend(message: str, model: str = 'llama-3.3-70b-versatile'):
+    rec = get_recommendation(message=message, model=model)
     return rec

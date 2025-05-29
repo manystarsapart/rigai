@@ -49,7 +49,7 @@ def get_filtered_csvs(message: str, limit: int):
 
     return cpu_filtered, cooler_filtered, storage_filtered, memory_filtered, motherboard_filtered
 
-def get_recommendation(message: str):
+def get_recommendation(message: str, model: str):
     system_prompt = """You are tasked with recommending a compatible and high-performance PC setup. You are given five JSON arrays, consisting of details of CPUs, coolers, storage hard drives, memory modules, and motherboards. From the list, choose only ONE component from each array, ensuring compatibility across all components that it meets the user's expectation and preference based on their input. For each component, output the name, as well as its item ID. You must only select from the given options. Do not invent anything new."""
 
     cpu_filtered, cooler_filtered, storage_filtered, memory_filtered, motherboard_filtered = get_filtered_csvs(message=message, limit=10)
@@ -64,10 +64,10 @@ def get_recommendation(message: str):
     Motherboard: {json.dumps(motherboard_filtered.reset_index().to_dict(orient="records"))}
     """
 
-    print("Sent request...")
+    print(f"Sent request to {model}...")
 
     recommendation = client.chat.completions.create(
-        model=MODEL,
+        model=model,
         response_model=ComponentChoices,
         messages=[
             {"role": "system", "content": system_prompt},
@@ -78,4 +78,4 @@ def get_recommendation(message: str):
     return recommendation
 
 if __name__ == "__main__":
-    print(get_recommendation(message=TEST_MESSAGE))
+    print(get_recommendation(message=TEST_MESSAGE, model=MODEL))
